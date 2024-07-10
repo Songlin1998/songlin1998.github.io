@@ -30,10 +30,9 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models
-  - 3D Human Motion and Human-Object-Scene Interaction
-  - Face Synthesis and Analysis
   - Neural Rendering
-  - Physics-Aware Content Generation
+  - 3D Object, Scene, and Human Reconstrution
+  - 3D Human Motion and Human-Object-Scene Interaction Generation
   - Robotics and Embodied Intelligence
 
 # 🔥 News
