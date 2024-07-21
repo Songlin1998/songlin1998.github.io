@@ -29,9 +29,9 @@ I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](h
 I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related scientists and engineers. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction! 
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
-  - Generative Models
-  - Neural Rendering
-  - 3D Object, Scene, and Human Reconstrution
+  - Generative Models for 2D (Images/Videos) and 3D
+  - Neural Rendering (Quality, Diversity, and Efficiency)
+  - 3D Object, Scene, and Human Reconstruction
   - 3D Human Motion and Human-Object-Scene Interaction Generation
   - Robotics and Embodied Intelligence
 
