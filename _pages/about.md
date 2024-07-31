@@ -55,7 +55,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   Sep. 2021 - Jun. 2024  
   Supervisor: [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/#photos) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Best Thesis Award](http://www.bsig.org.cn/detail/2573))  
-  GPA: 3.82/4.0 (National Scholarship, BSIG Best Thesis Award)  
+  GPA: 3.82/4.0 (National Scholarship)  
 
 - **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
   Sep. 2017 - Jun. 2021  
