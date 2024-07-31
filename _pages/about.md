@@ -36,13 +36,14 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   - Robotics and Embodied Intelligence
 
 # 🔥 News
+- 2024/07: I am awarded the [2024 Best Thesis Prize](http://www.bsig.org.cn/detail/2573) by the BSIG!
 - 2024/07: One paper is accepted by ACM TOMM.
 - 2024/06: I am invited to give a talk about my Master's thesis ([slides](https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf)).
 - 2024/05: I have successfully defended my Master's thesis.  
 - 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).  
 - 2024/01: I am invited by AI TIME to give a [talk](https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e) (in Chinese) about [PlaneDict (AAAI 2024)](https://arxiv.org/pdf/2312.10422.pdf).
 - 2023/12: One paper is accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
-- 2023/10: I have been granted by National Scholarship (Graduate). What a fierce competition!
+- 2023/10: I am granted by National Scholarship (Graduate)!
 - 2023/07: One paper is accepted by [MM 2023](https://www.acmmm2023.org/).
 - 2023/04: One paper is accepted by [CVPR 2023 Biometrics Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php).
 - 2023/02: One paper is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
@@ -199,6 +200,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 🎖️ Awards
 
+- BSIG 2024 Best Thesis Award. 2024
 - National Scholarship (Graduate). 2023
 - National Scholarship (Bachelor). 2018
 - Provincial Outstanding Graduate. 2021
