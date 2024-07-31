@@ -54,12 +54,12 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 - **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
   Sep. 2021 - Jun. 2024  
   Supervisor: [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/#photos) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
-  Thesis: Dynamic Facial Editing based on Neural Radiance Fields  
+  Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Best Thesis Award](http://www.bsig.org.cn/detail/2573))  
   GPA: 3.82/4.0 (National Scholarship, BSIG Best Thesis Award)  
 
 - **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
   Sep. 2017 - Jun. 2021  
-  Thesis: Face De-Identification based on Generative Adversarial Networks (Province Award)  
+  Thesis: Face De-Identification based on Generative Adversarial Networks (Jiangsu Best Thesis Award)  
   GPA: 4.4/5.0 (Rank: 1/204, Honors Distinction)  
 
 # 💻 Work Experience
