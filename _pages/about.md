@@ -200,7 +200,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 🎖️ Awards
 
-- BSIG 2024 Best Thesis Award. 2024
+- BSIG Best Thesis Award. 2024
 - National Scholarship (Graduate). 2023
 - National Scholarship (Bachelor). 2018
 - Provincial Outstanding Graduate. 2021
