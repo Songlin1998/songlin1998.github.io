@@ -64,8 +64,8 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 💻 Work Experience
 
-- **Research Associate, MMLab@NTU, S-Lab, Nanyang Technological University**
-  Aug. 2024 - NOW
+- **Research Associate, MMLab@NTU, S-Lab, Nanyang Technological University**  
+  Aug. 2024 - NOW  
   Supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html).  
 
 - **Research Intern, Content Generation Group, SenseTime Research**  
