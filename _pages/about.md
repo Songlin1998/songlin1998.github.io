@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
+I am currently a research associate at Nanyang Technological University in Singapore, supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
 
 <font color="blue">My previous research mainly focused on three aspects: </font>
   - **Face Neural Rendering**: Talking-Head Video Generation, Face Reenactment, and Facial Attribute Editing
@@ -63,6 +63,10 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   GPA: 4.4/5.0 (Rank: 1/204, Honors Distinction)  
 
 # 💻 Work Experience
+
+- **Research Associate, MMLab@NTU, S-Lab, Nanyang Technological University**
+  Aug. 2024 - NOW
+  Supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html).  
 
 - **Research Intern, Content Generation Group, SenseTime Research**  
   Sep. 2022 - Aug. 2023  
