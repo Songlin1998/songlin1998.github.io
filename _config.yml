@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Songlin Yang"
   avatar           : "images/profile.png"
-  bio              : "Institute of Automation, Chinese Academy of Sciences"
-  location         : "Beijing, China"
+  bio              : "Nanyang Technological University"
+  location         : "Singapore"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bb184bcAAAAJ"
-  email            : "yangsonglin2021@ia.ac.cn"
+  email            : "1136177697@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
