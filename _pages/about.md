@@ -36,7 +36,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   - Robotics and Embodied Intelligence
 
 # 🔥 News
-- 2024/07: <font color="red">I am awarded the 2024 Best Thesis Award by the </font>[BSIG](http://www.bsig.org.cn/detail/2573)!
+- 2024/07: <font color="red">I am awarded the 2024 Best Thesis Award by the </font> [BSIG](http://www.bsig.org.cn/detail/2574)!
 - 2024/07: One paper is accepted by ACM TOMM.
 - 2024/06: I am invited to give a talk about my Master's thesis ([slides](https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf)).
 - 2024/05: I have successfully defended my Master's thesis.  
@@ -54,7 +54,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 - **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
   Sep. 2021 - Jun. 2024  
   Supervisor: [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/#photos) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
-  Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Best Thesis Award](http://www.bsig.org.cn/detail/2573))  
+  Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Best Thesis Award](http://www.bsig.org.cn/detail/2574))  
   GPA: 3.82/4.0 (National Scholarship)  
 
 - **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
@@ -204,7 +204,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
 
 # 🎖️ Awards
 
-- BSIG Best Thesis Award. 2024
+- [BSIG Best Thesis Award](http://www.bsig.org.cn/detail/2574). 2024
 - National Scholarship (Graduate). 2023
 - National Scholarship (Bachelor). 2018
 - Provincial Outstanding Graduate. 2021
