@@ -19,9 +19,8 @@ redirect_from:
 
 I am currently a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
 
-<font color="blue">My previous research mainly focused on three aspects: </font>
-  - **Face Neural Rendering**: Talking-Head Video Generation, Face Reenactment, and Facial Attribute Editing
-  - **Text-to-Image Face Analysis**: Personalization and Identity Erasure
+<font color="blue">My previous research mainly focused on these aspects: </font>
+  - **Multi-Modal Face Neural Rendering**: Talking-Head Video Generation, Text-to-Image Face Analysis, and Image-Driven Face Reenactment
   - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection  
 
 # 🔈**JOIN US!**
