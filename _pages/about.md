@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
+I am currently a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Best Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Best Thesis Award (Bachelor), and China National Scholarship. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
 
 <font color="blue">My previous research mainly focused on these aspects: </font>
   - **Multi-Modal Face Manipulation**: Talking-Head Video Generation, Text-to-Image Face Analysis, and Image-Driven Face Reenactment
@@ -35,7 +35,7 @@ I embrace Richard Feynman's dictum, "What I can not create, I do not understand,
   - Robotics and Embodied Intelligence
 
 # 🔥 News
-- 2024/07: <font color="red">I am awarded the 2024 Best Thesis Award by the </font> [BSIG](http://www.bsig.org.cn/detail/2574)!
+- 2024/07: <font color="red">I am awarded the 2024 Best Thesis Award by </font> [BSIG](http://www.bsig.org.cn/detail/2574)!
 - 2024/07: One paper is accepted by ACM TOMM.
 - 2024/06: I am invited to give a talk about my Master's thesis ([slides](https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf)).
 - 2024/05: I have successfully defended my Master's thesis.  
