@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Best Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Best Thesis Award (Bachelor), and China National Scholarship. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric content generation. Also, I am conducting cutting-edge research in 3D Human-Object Interaction Tracking for my possible PhD program. 
+I am currently a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Best Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Best Thesis Award (Bachelor), and China National Scholarship. I am fortunate to have internships at serveral leading research institutions, including MicroSoft Research Asia and SenseTime Research. I have extensive experience in studying the NeRF-based motion transfer and diffusion-based human-centric content generation.   
 
 <font color="blue">My previous research mainly focused on these aspects: </font>
   - **Multi-Modal Face Manipulation**: Talking-Head Video Generation, Text-to-Image Face Analysis, and Image-Driven Face Reenactment
@@ -25,10 +25,10 @@ I am currently a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/ind
 
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. Specifically, I plan to employ generative models to enhance human-computer interaction, based on technical expertise accumulated through my collaboration with 3D human-related scientists and engineers. Let's embark on our journey towards a technologically-advanced era of immersive human-object/scene interaction! 
+I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. 
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
-  - Generative Models for 2D (Images/Videos) and 3D
+  - Generative Models for 2D (Images/Videos), 3D, and 4D Content
   - Neural Rendering (Quality, Diversity, and Efficiency)
   - 3D Object, Scene, and Human Reconstruction
   - 3D Human Motion and Human-Object-Scene Interaction Generation
