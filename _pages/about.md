@@ -25,13 +25,12 @@ I am currently a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/ind
 
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal, which is generating human-centric visual content to understand ourselves. I will continue to conduct research at the intersection of computer vision and graphics. 
+I embrace Richard Feynman's dictum, "What I can not create, I do not understand," as it aligns with my research goal. I will continue to conduct research at the intersection of computer vision and graphics, especially **video** generation and **3D** generation. 
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models for 2D (Images/Videos), 3D, and 4D Content
   - Neural Rendering (Quality, Diversity, and Efficiency)
-  - 3D Object, Scene, and Human Reconstruction
-  - 3D Human Motion and Human-Object-Scene Interaction Generation
+  - 3D Object, Scene, Human, and Human-Object-Scene Interaction
   - Robotics and Embodied Intelligence
 
 # 🔥 News
