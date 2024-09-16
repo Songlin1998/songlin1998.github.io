@@ -25,7 +25,7 @@ I am currently a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/ind
 
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.' I will continue to conduct research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to perceive the 3D world from 2D pixels and achieve spatial intelligence.
+I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate the physical world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and achieve spatial intelligence.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models for 2D (Images/Videos), 3D, and 4D Content
