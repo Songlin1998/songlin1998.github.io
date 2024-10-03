@@ -167,7 +167,7 @@ I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.'
   
   [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2023.ieeeicassp.org/), 2023 
   
-  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932)   
+  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932) [Code](https://github.com/Songlin1998/StyleNeRF-Encoder-and-Editor)    
   
   </div>
   </div>
