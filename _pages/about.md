@@ -88,7 +88,7 @@ I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.'
   **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yushi Lan](https://nirvanalan.github.io/), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
   
   [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/aaai-conference/), 2024  
-  [Paper](https://arxiv.org/pdf/2312.10422.pdf) [Project](https://songlin1998.github.io/planedict/) [Code](https://github.com/Songlin1998/Oneshot-Tri-plane-Face-Reenactment)
+  [Paper](https://arxiv.org/pdf/2312.10422.pdf) [Project](https://songlin1998.github.io/planedict/) [Code](https://github.com/Songlin1998/Oneshot-Tri-plane-Face-Reenactment)  
   
   </div>
   </div>
@@ -101,7 +101,7 @@ I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.'
   **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
   
   [Proceedings of the 31st ACM International Conference on Multimedia](https://www.acmmm2023.org/), 2023  
-  [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611765) [Project](https://songlin1998.github.io/THEdit/) [Code](https://github.com/Songlin1998/Talking-Head-Video-Editing)
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611765) [Project](https://songlin1998.github.io/THEdit/) [Code](https://github.com/Songlin1998/Talking-Head-Video-Editing)  
   
   </div>
   </div>
@@ -125,7 +125,7 @@ I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.'
   
   [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
-  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND)
+  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
   
   </div>
   </div>
