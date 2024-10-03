@@ -153,7 +153,7 @@ I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.'
 
    [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
    **Oral Presentation**  
-   [Paper](https://arxiv.org/pdf/2404.08341.pdf) [Project](https://github.com/yangli-lab/Artifact-Eraser/) [Code](https://github.com/yangli-lab/Artifact-Eraser)
+   [Paper](https://arxiv.org/pdf/2404.08341.pdf) [Code](https://github.com/yangli-lab/Artifact-Eraser)  
   
   </div>
   </div>
