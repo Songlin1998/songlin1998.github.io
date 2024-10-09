@@ -217,6 +217,7 @@ I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.'
 
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-2024).
 - IEEE Student Member (2021-Now).
+- ACM Member (2024-Now).
 - Conference Reviewer
   - AAAI (2023, 2024, 2025)
   - CVPR (2022, 2023, 2024)
