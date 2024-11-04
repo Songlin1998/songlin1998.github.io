@@ -220,7 +220,7 @@ I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.'
 - ACM Member (2024-Now).
 - Conference Reviewer
   - AAAI (2023, 2024, 2025)
-  - CVPR (2022, 2023, 2024)
+  - CVPR (2022, 2023, 2024, 2025)
   - MM (2024)
   - ECCV (2022, 2024)
   - ICME (2024)
