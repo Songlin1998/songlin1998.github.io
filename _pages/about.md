@@ -25,7 +25,7 @@ I am an incoming PhD student. Currently, I work as a research associate at [MMLa
 
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate the 3D world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and realize immersive human-centered AIGC.
+I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate the 3D world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and realize creative human-centered AIGC.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models for 2D (Images/Videos), 3D, and 4D Content
