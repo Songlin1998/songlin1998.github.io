@@ -20,7 +20,7 @@ redirect_from:
 I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on **controllable** multimodal content generation, with a particular emphasis on implicit 3D representations and diffusion models.
 
 <font color="blue">My previous research mainly focused on these aspects: </font>
-  - **Multi-Modal AIGC**: Talking-Head Video Generation, Text-to-Image Generation, Image-Driven Face Reenactment, and Text-to-3D Generation
+  - **Multi-Modal AIGC**: Talking-Head Video, Text-to-Image/3D Generation, and Image-Driven Face Reenactment
   - **Trustworthy AIGC**: Machine Unlearning, Adversarial Attack, and Backdoor Attack  
   - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection
   
