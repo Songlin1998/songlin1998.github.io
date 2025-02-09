@@ -17,23 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on controllable multimodal content generation, with a particular emphasis on implicit 3D representations and diffusion models.
+I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on **controllable** multimodal content generation, with a particular emphasis on implicit 3D representations and diffusion models.
 
 <font color="blue">My previous research mainly focused on these aspects: </font>
-  - **Multi-Modal Face Manipulation**: Talking-Head Video Generation, Text-to-Image Face Analysis, and Image-Driven Face Reenactment
-  - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection  
+  - **Multi-Modal AIGC**: Talking-Head Video Generation, Text-to-Image Generation, Image-Driven Face Reenactment, and Text-to-3D Generation
+  - **Trustworthy AIGC**: Machine Unlearning, Adversarial Attack, and Backdoor Attack  
+  - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection
+  
 
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate the 3D world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and realize creative human-centered AIGC.
+I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate the 3D world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and realize creative human-centered AIGC.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - Generative Models for 2D (Images/Videos), 3D, and 4D Content
   - Neural Rendering (Quality, Diversity, and Efficiency)
   - 3D Object, Scene, Human, and Human-Object-Scene Interaction
+  - AIGC Safety
   - Robotics and Embodied Intelligence
 
 # 🔥 News
+- 2025/02: We are organizing [the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding](https://cveu.github.io/) at CVPR 2025.
 - 2024/07: <font color="red">I am awarded the 2024 Outstanding Thesis Award by </font> [BSIG](http://www.bsig.org.cn/detail/2574)!
 - 2024/07: One paper is accepted by ACM TOMM.
 - 2024/06: I am invited to give a talk about my Master's thesis ([slides](https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf)).
@@ -214,7 +218,7 @@ I embrace Richard Feynman's dictum, 'What I cannot create, I do not understand.'
 - First Class Scholarship for Academic Excellence. 2017, 2018, 2019, 2020
 
 # 🕴️ Professional Services
-
+- Organizer for [CVEU Workshop](https://cveu.github.io/) at CVPR 2025.
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-2024).
 - IEEE Student Member (2021-Now).
 - ACM Member (2024-Now).
