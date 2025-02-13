@@ -226,6 +226,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   - AAAI (2023, 2024, 2025)
   - CVPR (2022, 2023, 2024, 2025)
   - MM (2024)
+  - ICCV (2025)
   - ECCV (2022, 2024)
   - ICME (2024)
   - IJCB (2022)
