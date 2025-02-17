@@ -53,33 +53,27 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 # 📖 Education
 
-- **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**  
-  Sep. 2021 - Jun. 2024  
+- **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
   Supervisor: [Prof. Wei Wang](http://cripac.ia.ac.cn/people/wwang/#photos) (Co-Supervised by [Prof. Jing Dong](http://cripac.ia.ac.cn/people/jdong/) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574))  
   GPA: 3.82/4.0 (National Scholarship)  
 
 - **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
-  Sep. 2017 - Jun. 2021  
   Thesis: Face De-Identification based on Generative Adversarial Networks (Jiangsu Outstanding Thesis Award)  
   GPA: 4.4/5.0 (Rank: 1/204, Honors Distinction)  
 
 # 💻 Work Experience
 
 - **Research Associate, MMLab@NTU, S-Lab, Nanyang Technological University**  
-  Aug. 2024 - NOW  
   Supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html).  
 
 - **Research Intern, Content Generation Group, SenseTime Research**  
-  Sep. 2022 - Aug. 2023  
   Supervised by [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ).
   
  - **Research Intern, Machine Learning Group, MicroSoft Research Asia**  
-  Mar. 2022 - Aug. 2022  
   Supervised by [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ).
   
  - **Research Intern, Identity Verification Group, SenseTime Research**   
-  Jun. 2021 - Sep. 2021  
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
 # 📝 Publications  
