@@ -47,9 +47,6 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 - 2023/12: One paper is accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
 - 2023/10: I am granted by National Scholarship (Graduate)!
 - 2023/07: One paper is accepted by [MM 2023](https://www.acmmm2023.org/).
-- 2023/04: One paper is accepted by [CVPR 2023 Biometrics Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php).
-- 2023/02: One paper is accepted by [ICASSP 2023](https://2023.ieeeicassp.org/).
-- 2021/10: One paper is accepted by [CCBR 2021](https://ccbr99.cn/).
 
 # 📖 Education
 
