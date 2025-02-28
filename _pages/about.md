@@ -223,6 +223,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+  - Pattern Recognition (PR)
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
