@@ -75,6 +75,18 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 # 📝 Publications  
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Textured 3D Regenerative Morphing with 3D Diffusion Prior**
+  
+  **Songlin Yang**, [Yushi Lan](https://nirvanalan.github.io/), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), [Xingang Pan](https://xingangpan.github.io/index.html)  
+    
+  [Paper](https://arxiv.org/pdf/2502.14316) [Project](https://songlin1998.github.io/Textured-3D-Morphing/)
+  
+  </div>
+  </div>
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/AAAI2024.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
