@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Prof. Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on **controllable** multimodal content generation, with a particular emphasis on implicit 3D representations and diffusion models.
+I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on **controllable** multimodal content generation, with a particular emphasis on implicit 3D representations and diffusion models.
 
 <font color="blue">My previous research mainly focused on these aspects: </font>
   - **Multi-Modal AIGC**: Talking-Head Video, Text-to-Image/3D Generation, and Image-Driven Face Reenactment
@@ -51,7 +51,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 # 📖 Education
 
 - **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
-  Supervisor: [Prof. Wei Wang](https://people.ucas.edu.cn/~wwong) (Co-Supervised by [Prof. Jing Dong](https://people.ucas.edu.cn/~dongjing) and [Prof. Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
+  Supervisor: [Wei Wang](https://people.ucas.edu.cn/~wwong) (Co-Supervised by [Jing Dong](https://people.ucas.edu.cn/~dongjing) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574))  
   GPA: 3.82/4.0 (National Scholarship)  
 
@@ -62,7 +62,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 # 💻 Work Experience
 
 - **Research Associate, MMLab@NTU, S-Lab, Nanyang Technological University**  
-  Supervised by [Prof. Xingang Pan](https://xingangpan.github.io/index.html).  
+  Supervised by [Xingang Pan](https://xingangpan.github.io/index.html).  
 
 - **Research Intern, Content Generation Group, SenseTime Research**  
   Supervised by [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ).
