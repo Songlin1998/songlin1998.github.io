@@ -48,7 +48,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 - 2023/10: I am granted by National Scholarship (Graduate)!
 - 2023/07: One paper is accepted by [MM 2023](https://www.acmmm2023.org/).
 
-# 📖 Education
+# 🧑‍🎓 Education
 
 - **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
   Supervisor: [Wei Wang](https://people.ucas.edu.cn/~wwong) (Co-Supervised by [Jing Dong](https://people.ucas.edu.cn/~dongjing) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
@@ -111,7 +111,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   </div>
   </div>
 
-# 📝 Selected Publications
+# 📖 Selected Publications
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/AAAI2024.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
