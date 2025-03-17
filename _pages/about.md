@@ -73,9 +73,9 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
  - **Research Intern, Identity Verification Group, SenseTime Research**   
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
-# 📝 Publications  
+# 📝 Preprint
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Textured 3D Regenerative Morphing with 3D Diffusion Prior**
@@ -86,6 +86,32 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   
   </div>
   </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **Beyond Inserting: Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation**
+  
+  [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  (\* Equal Contribution)  
+  
+  [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
+  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
+  
+  </div>
+  </div>
+
+# 📝 Selected Publications
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/AAAI2024.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -109,30 +135,6 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   
   [Proceedings of the 31st ACM International Conference on Multimedia](https://www.acmmm2023.org/), 2023  
   [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611765) [Project](https://songlin1998.github.io/THEdit/) [Code](https://github.com/Songlin1998/Talking-Head-Video-Editing)  
-  
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-  **Beyond Inserting: Learning Identity Embedding for Semantic-Fidelity Personalized Diffusion Generation**
-  
-  [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-  (\* Equal Contribution)  
-  
-  [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
-  
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
   
   </div>
   </div>
@@ -189,20 +191,6 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
   **Long Oral Presentation**  
   [Paper](https://arxiv.org/pdf/2205.14851.pdf) 
-  
-  </div>
-  </div>
-  
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCBR 2021</div><img src='images/publications/CCBR21.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **A Systematical Solution for Face De-Identification**
-  
-  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Yuehua Cheng, [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
-  
-  [Chinese Conference on Biometric Recognition](https://ccbr99.cn/2021/), 2021  
-  
-  [Paper](https://link.springer.com/chapter/10.1007/978-3-030-86608-2_3)  
   
   </div>
   </div>
