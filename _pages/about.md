@@ -75,7 +75,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 # 📝 Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Textured 3D Regenerative Morphing with 3D Diffusion Prior**
@@ -87,7 +87,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Beyond Inserting: Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation**
@@ -99,7 +99,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
