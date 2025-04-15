@@ -207,6 +207,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 - Outstanding Student of University of Chinese Academy of Sciences. 2022, 2023, 2024
 - Scholarship of Aviation Industry Corporation of China. 2019, 2020
 - First Class Scholarship for Academic Excellence. 2017, 2018, 2019, 2020
+- Outstanding Reviewer for [CVPR Workshop](https://cveu.github.io/), 2025
 
 # 🕴️ Professional Services
 - Organizer for [CVEU Workshop](https://cveu.github.io/) at CVPR 2025.
