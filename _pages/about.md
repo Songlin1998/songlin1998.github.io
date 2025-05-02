@@ -97,6 +97,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   (\* Equal Contribution)  
   
   [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
+  
   </div>
   </div>
 
@@ -146,8 +147,9 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   <div class='paper-box-text' markdown="1">
   
   **Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time**
-  
+
   [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+[Forty-Second International Conference on Machine Learning](https://icml.cc/), 2025
 
   Paper Project  
   
@@ -187,7 +189,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
    (\* Equal Contribution)  
 
-   [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
+   [IEEE International Conference on Multimedia and Expo](https://2024.ieeeicme.org/), 2024  
    **Oral Presentation**  
    [Paper](https://arxiv.org/pdf/2404.08341.pdf) [Code](https://github.com/yangli-lab/Artifact-Eraser)  
   
@@ -201,7 +203,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   
   **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Chenye Xu, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
   
-  [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
+  [IEEE Conference on Computer Vision and Pattern Recognition](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
   **Long Oral Presentation**  
   [Paper](https://arxiv.org/pdf/2205.14851.pdf) 
   
