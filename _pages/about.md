@@ -37,7 +37,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   - Robotics and Embodied Intelligence
 
 # 🔥 News
-- 2025/05：One paper is accepted by [ICML 2025](https://icml.cc/).
+- 2025/05: One paper is accepted by [ICML 2025](https://icml.cc/).
 - 2025/02: We are organizing [the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding](https://cveu.github.io/) at CVPR 2025.
 - 2024/07: <font color="red">I am awarded the 2024 Outstanding Thesis Award by </font> [BSIG](http://www.bsig.org.cn/detail/2574)!
 - 2024/07: One paper is accepted by ACM TOMM.
