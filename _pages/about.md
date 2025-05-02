@@ -142,7 +142,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 # 📖 Selected Publications - Trustworthy AIGC and AI Safety
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time**
