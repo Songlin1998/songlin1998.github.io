@@ -20,7 +20,7 @@ redirect_from:
 I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on **controllable** multimodal content generation, with a particular emphasis on implicit 3D representations and diffusion models.
 
 <font color="blue">My previous research mainly focused on these aspects: </font>
-  - **Multi-Modal AIGC**: Talking-Head Video, Text-to-Image/3D Generation, and Image-Driven Face Reenactment
+  - **Multimodal AIGC**: Talking-Head Video, Text-to-Image/3D Generation, and Image-Driven Face Reenactment
   - **Trustworthy AIGC**: Machine Unlearning, Adversarial Attack, and Backdoor Attack  
   - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection
   
@@ -37,6 +37,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   - Robotics and Embodied Intelligence
 
 # 🔥 News
+- 2025/05：One paper is accepted by [ICML 2025](https://icml.cc/).
 - 2025/02: We are organizing [the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding](https://cveu.github.io/) at CVPR 2025.
 - 2024/07: <font color="red">I am awarded the 2024 Outstanding Thesis Award by </font> [BSIG](http://www.bsig.org.cn/detail/2574)!
 - 2024/07: One paper is accepted by ACM TOMM.
@@ -73,7 +74,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
  - **Research Intern, Identity Verification Group, SenseTime Research**   
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
-# 📝 Preprint
+# 📝 Selected Publications - Controllable Multimodal Generation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -99,20 +100,6 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
-  
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
-  
-  </div>
-  </div>
-
-# 📖 Selected Publications
-
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/AAAI2024.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -135,6 +122,46 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   
   [Proceedings of the 31st ACM International Conference on Multimedia](https://www.acmmm2023.org/), 2023  
   [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611765) [Project](https://songlin1998.github.io/THEdit/) [Code](https://github.com/Songlin1998/Talking-Head-Video-Editing)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Designing a 3D-Aware StyleNeRF Encoder for Face Editing**
+  
+  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
+  
+  [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2023.ieeeicassp.org/), 2023 
+  
+  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932) [Code](https://github.com/Songlin1998/StyleNeRF-Encoder-and-Editor)    
+  
+  </div>
+  </div>
+
+# 📖 Selected Publications - Trustworthy AIGC and AI Safety
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time**
+  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+  Paper Project  
+  
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
+  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
   
   </div>
   </div>
@@ -163,20 +190,6 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
    [IEEE International Conference on Multimedia and Expo (ICME)](https://2024.ieeeicme.org/), 2024  
    **Oral Presentation**  
    [Paper](https://arxiv.org/pdf/2404.08341.pdf) [Code](https://github.com/yangli-lab/Artifact-Eraser)  
-  
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Designing a 3D-Aware StyleNeRF Encoder for Face Editing**
-  
-  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
-  
-  [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2023.ieeeicassp.org/), 2023 
-  
-  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932) [Code](https://github.com/Songlin1998/StyleNeRF-Encoder-and-Editor)    
   
   </div>
   </div>
