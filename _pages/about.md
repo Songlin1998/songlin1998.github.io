@@ -231,6 +231,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 - ACM Member (2024-Now).
 - Conference Reviewer
   - AAAI (2023, 2024, 2025)
+  - SIGGRAPH (2025)
   - CVPR (2022, 2023, 2024, 2025)
   - MM (2024)
   - ICCV (2025)
