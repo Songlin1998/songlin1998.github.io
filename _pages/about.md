@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on **controllable** multimodal content generation, with a particular emphasis on implicit 3D representations and diffusion models.
+I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on **controllable** multimodal content generation, with a particular emphasis on 3D-aware generative modeling.
 
 <font color="blue">My previous research mainly focused on these aspects: </font>
   - **Multimodal AIGC**: Talking-Head Video, Text-to-Image/3D Generation, and Image-Driven Face Reenactment
@@ -27,14 +27,12 @@ I am an incoming PhD student. Currently, I work as a research associate at [MMLa
 
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate the 3D world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and realize creative human-centered AIGC.
+I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate our world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and realize creative human-centered AIGC.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
-  - Generative Models for 2D (Images/Videos), 3D, and 4D Content
-  - Neural Rendering (Quality, Diversity, and Efficiency)
-  - 3D Object, Scene, Human, and Human-Object-Scene Interaction
-  - AIGC Safety
-  - Robotics and Embodied Intelligence
+  - Generative Models: 2D (Images/Videos), 3D, and 4D Content
+  - Creator-Machine Interaction: Interfaces, Personalization, and Feedback Adaptation
+  - AIGC Safety: Robustness, Privacy, and Traceability 
 
 # 🔥 News
 - 2025/06: One paper is accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
