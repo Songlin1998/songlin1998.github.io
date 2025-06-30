@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/) with Honors Distinction. I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have internships at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research experience focuses on **controllable** multimodal content generation, with a particular emphasis on 3D-aware generative modeling.
+I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/). I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have working experiences at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research focuses on **controllable** multimodal generation and editing, with a particular emphasis on 3D-aware content manipulation.
 
 <font color="blue">My previous research mainly focused on these aspects: </font>
   - **Multimodal AIGC**: Talking-Head Video, Text-to-Image/3D Generation, and Image-Driven Face Reenactment
@@ -220,7 +220,6 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 - Outstanding Graduate of Nanjing University of Aeronautics and Astronautics. 2021
 - Outstanding Student of University of Chinese Academy of Sciences. 2022, 2023, 2024
 - Scholarship of Aviation Industry Corporation of China. 2019, 2020
-- First Class Scholarship for Academic Excellence. 2017, 2018, 2019, 2020
 - Outstanding Reviewer for [CVPR Workshop](https://cveu.github.io/), 2025
 
 # 🕴️ Professional Services
