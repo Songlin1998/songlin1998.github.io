@@ -31,7 +31,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - **Generative Models**: 2D (Images/Videos), 3D, and 4D Content
-  - **Creator-Machine Interaction**: Interfaces, Personalization, and Feedback Adaptation
+  - **Creator-Machine Interaction**: Personalization, Interactivity, and Feedback Adaptation
   - **AIGC Safety**: Robustness, Privacy, and Traceability 
 
 # 🔥 News
