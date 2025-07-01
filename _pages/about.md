@@ -150,7 +150,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 [Forty-Second International Conference on Machine Learning](https://icml.cc/), 2025
 
-  Paper Project  
+  [Paper](https://openreview.net/pdf?id=PdBEggnDIl)   
   
   </div>
   </div>
