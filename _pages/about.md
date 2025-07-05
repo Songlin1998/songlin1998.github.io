@@ -35,6 +35,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   - **AIGC Safety**: Robustness, Privacy, and Traceability 
 
 # 🔥 News
+- 2025/07: One paper is accepted by IEEE TCSVT.
 - 2025/06: One paper is accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
 - 2025/05: One paper is accepted by [ICML 2025](https://icml.cc/).
 - 2025/02: We are organizing [the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding](https://cveu.github.io/) at CVPR 2025.
@@ -87,7 +88,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Beyond Inserting: Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation**
