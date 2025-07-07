@@ -45,11 +45,11 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 # 🧑‍🎓 Education
 
-- **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
+- **M.S. in [New Lab of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
   Supervisor: [Wei Wang](https://people.ucas.edu.cn/~wwong) (Co-Supervised by [Jing Dong](https://people.ucas.edu.cn/~dongjing) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574))  
 
-- **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
+- **B.E. in Nanjing University of Aeronautics and Astronautics**  
   Thesis: Face De-Identification based on Generative Adversarial Networks (Jiangsu Outstanding Thesis Award)  
 
 # 💻 Work Experience
