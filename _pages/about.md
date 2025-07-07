@@ -18,21 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/). I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have working experiences at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research focuses on **controllable** multimodal generation and editing, with a particular emphasis on 3D-aware content manipulation.
-
-<font color="blue">My previous research mainly focused on these aspects: </font>
-  - **Multimodal AIGC**: Talking-Head Video, Text-to-Image/3D Generation, and Image-Driven Face Reenactment
-  - **Trustworthy AIGC**: Machine Unlearning, Adversarial Attack, and Backdoor Attack  
-  - **Robust Face Recognition System**: De-Identification, Anti-Spoofing, and Deepfake Detection
   
-
 # 🔈**JOIN US!**
 
 I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate our world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and realize creative human-centered AIGC.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
-  - **Generative Models**: 2D (Images/Videos), 3D, and 4D Content
-  - **Creator-Machine Interaction**: Personalization, Interactivity, and Feedback Adaptation
-  - **AIGC Safety**: Robustness, Privacy, and Traceability 
+  - **Generative Models**: 2D (Images/Videos), 3D, and 4D Content  
+  - **Creator-Machine Interaction**: Personalization, Interactivity, and Feedback Adaptation  
+  - **AIGC Safety**: Robustness, Privacy, and Traceability  
 
 # 🔥 News
 - 2025/07: One paper is accepted by IEEE TCSVT.
@@ -54,11 +48,9 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 - **M.S. in Pattern Recognition and Intelligent Systems, [NLPR Department](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
   Supervisor: [Wei Wang](https://people.ucas.edu.cn/~wwong) (Co-Supervised by [Jing Dong](https://people.ucas.edu.cn/~dongjing) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574))  
-  GPA: 3.82/4.0 (National Scholarship)  
 
 - **B.E. in Automation Engineering, Nanjing University of Aeronautics and Astronautics**  
   Thesis: Face De-Identification based on Generative Adversarial Networks (Jiangsu Outstanding Thesis Award)  
-  GPA: 4.4/5.0 (Rank: 1/204, Honors Distinction)  
 
 # 💻 Work Experience
 
@@ -74,7 +66,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
  - **Research Intern, Identity Verification Group, SenseTime Research**   
   Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
 
-# 📝 Selected Publications - Controllable Multimodal Generation
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -82,21 +74,37 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   **Textured 3D Regenerative Morphing with 3D Diffusion Prior**
   
   **Songlin Yang**, [Yushi Lan](https://nirvanalan.github.io/), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), [Xingang Pan](https://xingangpan.github.io/index.html)  
-    
+
+  [Proceedings of the IEEE/CVF International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), 2025  
   [Paper](https://arxiv.org/pdf/2502.14316) [Project](https://songlin1998.github.io/Textured-3D-Morphing/)
   
   </div>
   </div>
+  
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2025</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Beyond Inserting: Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation**
   
   [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
   (\* Equal Contribution)  
-  
+
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025  
   [Paper](https://arxiv.org/pdf/2402.00631.pdf) [Project](https://com-vis.github.io/SeFi-IDE/)  
+  
+  </div>
+  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time**
+
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  
+  [Forty-Second International Conference on Machine Learning](https://icml.cc/), 2025  
+  [Paper](https://openreview.net/pdf?id=PdBEggnDIl)   
   
   </div>
   </div>
@@ -127,6 +135,18 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   </div>
   </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
+  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
+  
+  </div>
+  </div>
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -137,33 +157,6 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2023.ieeeicassp.org/), 2023 
   
   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932) [Code](https://github.com/Songlin1998/StyleNeRF-Encoder-and-Editor)    
-  
-  </div>
-  </div>
-
-# 📖 Selected Publications - Trustworthy AIGC and AI Safety
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time**
-
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-[Forty-Second International Conference on Machine Learning](https://icml.cc/), 2025
-
-  [Paper](https://openreview.net/pdf?id=PdBEggnDIl)   
-  
-  </div>
-  </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
-  
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
   
   </div>
   </div>
