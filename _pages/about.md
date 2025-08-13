@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student. Currently, I work as a research associate at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), S-Lab, Nanyang Technological University in Singapore, under the supervision of [Xingang Pan](https://xingangpan.github.io/index.html). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/). I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574), Jiangsu Outstanding Thesis Award (Bachelor), and China National Scholarship (Bachelor & Graduate). I am fortunate to have working experiences at several leading research institutions, including MicroSoft Research Asia and SenseTime Research. My research focuses on **controllable** multimodal generation and editing, with a particular emphasis on 3D-aware content manipulation.
+I am a PhD student at MMLab@HKUST, The Hong Kong University of Science and Technology, co-supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I achieved my M.S. from [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/) and B.E. from [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/). I am the recipient of [BSIG Outstanding Thesis Award (Graduate)](http://www.bsig.org.cn/detail/2574). I am fortunate to have working experiences at MicroSoft Research Asia, SenseTime Research, and MMLab@NTU. My research focuses on controllable multimodal generation and editing, with a particular emphasis on 3D-aware content manipulation.
   
 # 🔈**JOIN US!**
 
@@ -45,8 +45,11 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 # 🧑‍🎓 Education
 
+- **PhD Student in [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)**   
+  Supervisors: [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)  
+
 - **M.S. in [New Lab of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
-  Supervisor: [Wei Wang](https://people.ucas.edu.cn/~wwong) (Co-Supervised by [Jing Dong](https://people.ucas.edu.cn/~dongjing) and [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml))  
+  Supervisors: [Wei Wang](https://people.ucas.edu.cn/~wwong) and [Jing Dong](https://people.ucas.edu.cn/~dongjing) 
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574))  
 
 - **B.E. in Nanjing University of Aeronautics and Astronautics**  
@@ -55,16 +58,16 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 # 💻 Work Experience
 
 - **Research Associate, MMLab@NTU, S-Lab, Nanyang Technological University**  
-  Supervised by [Xingang Pan](https://xingangpan.github.io/index.html).  
+  Supervisor: [Xingang Pan](https://xingangpan.github.io/index.html)
 
 - **Research Intern, Content Generation Group, SenseTime Research**  
-  Supervised by [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ).
+  Supervisors: [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ)
   
  - **Research Intern, Machine Learning Group, MicroSoft Research Asia**  
-  Supervised by [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ).
+  Supervisors: [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ)
   
  - **Research Intern, Identity Verification Group, SenseTime Research**   
-  Supervised by Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ).
+  Supervisors: Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ)
 
 # 📝 Selected Publications
 
@@ -228,6 +231,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
   - CVPR (2022, 2023, 2024, 2025)
   - MM (2024)
   - ECCV (2022, 2024)
+  - 3DV (2025)
 - Journal Reviewer
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
@@ -236,4 +240,5 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
