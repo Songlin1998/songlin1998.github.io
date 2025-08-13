@@ -25,8 +25,8 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - **Generative Models**: 2D (Images/Videos), 3D, and 4D Content  
-  - **Creator-Machine Co-Learning**: Personalization, Interactivity, and Feedback Adaptation  
-  - **AIGC Safety**: Robustness, Privacy, and Traceability  
+  - **Creator-Machine Co-Learning**: Personalization, Interactivity, and Assessment  
+  - **Trustworthy AIGC**: Robustness, Privacy, and Watermark  
 
 # 🔥 News
 - 2025/07: One paper is accepted by IEEE TCSVT.
@@ -240,6 +240,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
