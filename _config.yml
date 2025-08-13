@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Songlin Yang"
   avatar           : "images/profile.png"
-  bio              : "Nanyang Technological University"
-  location         : "Singapore"
+  bio              : "MMLab@HKUST"
+  location         : "Hong Kong"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=bb184bcAAAAJ"
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
