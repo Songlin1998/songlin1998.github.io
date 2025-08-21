@@ -26,7 +26,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - **Generative Foundation Models**: Vision-Language Model, Understanding-Generation Model, and Multi-Agent System  
   - **Creator-Machine Co-Learning**: Personalization, Interactivity, and Assessment  
-  - **Trustworthy AIGC**: Robustness, Privacy, and Watermark  
+  - **Trustworthy AIGC**: Robustness, Privacy, Watermark, and Detection  
 
 # 🔥 News
 - 2025/07: One paper is accepted by IEEE TCSVT.
@@ -240,6 +240,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
