@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), co-supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am the recipient of [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have working experiences at MicroSoft Research Asia, SenseTime Research, and MMLab@NTU. My research focuses on multimodal generation and editing, with a particular emphasis on 3D-aware content manipulation.
+I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am the recipient of [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
   
 # 🔈**JOIN US!**
 
-I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.' This aligns with my technical roadmap of using generative AI to perceive, understand, and manipulate our world. I will continue conducting research at the intersection of computer vision and graphics, especially in **video** and **3D** generation, to create the 3D world from 2D pixels and realize creative human-centered AIGC.
+Inspired by Richard Feynman’s “What I cannot create, I do not understand,” I aim to understand and enhance human intelligence through generative AI. My research at the intersection of computer vision, graphics, and deep learning drives multimodal AIGC to spark human creativity while prioritizing safety and ethics.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
-  - **Generative Models**: 2D (Images/Videos), 3D, and 4D Content  
+  - **Generative Foundation Models**: Vision-Language Model, Understanding-Generation Model, and Multi-Agnet System  
   - **Creator-Machine Co-Learning**: Personalization, Interactivity, and Assessment  
   - **Trustworthy AIGC**: Robustness, Privacy, and Watermark  
 
@@ -43,7 +43,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 - 2023/10: I am granted by National Scholarship (Graduate)!
 - 2023/07: One paper is accepted by [MM 2023](https://www.acmmm2023.org/).
 
-# 🧑‍🎓 Education
+# 👨‍🎓 Education
 
 - **PhD Student in [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)**   
   Supervisors: [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)  
@@ -63,7 +63,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 - **Research Intern, Content Generation Group, SenseTime Research**  
   Supervisors: [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ)
   
- - **Research Intern, Machine Learning Group, MicroSoft Research Asia**  
+ - **Research Intern, Machine Learning Group, MicroSoft Research Lab Asia (MSRA)**  
   Supervisors: [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ)
   
  - **Research Intern, Identity Verification Group, SenseTime Research**   
@@ -240,6 +240,7 @@ I embrace Richard Feynman's dictum, 'What I can not create, I do not understand.
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
