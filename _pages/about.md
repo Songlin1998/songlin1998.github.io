@@ -150,20 +150,6 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/publications/ICASSP.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Designing a 3D-Aware StyleNeRF Encoder for Face Editing**
-  
-  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
-  
-  [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2023.ieeeicassp.org/), 2023 
-  
-  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094932) [Code](https://github.com/Songlin1998/StyleNeRF-Encoder-and-Editor)    
-  
-  </div>
-  </div>
-
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -173,21 +159,6 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   ACM Transactions on Multimedia Computing Communications and Applications, 2024  
 
   [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
-  
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/publications/icme24.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts**  
-  
-  [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-   (\* Equal Contribution)  
-
-   [IEEE International Conference on Multimedia and Expo](https://2024.ieeeicme.org/), 2024  
-   **Oral Presentation**  
-   [Paper](https://arxiv.org/pdf/2404.08341.pdf) [Code](https://github.com/yangli-lab/Artifact-Eraser)  
   
   </div>
   </div>
@@ -240,6 +211,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
