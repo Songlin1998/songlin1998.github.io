@@ -199,7 +199,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - AAAI (2023, 2024, 2025, 2026)
   - ICCV (2025)
   - SIGGRAPH (2025)
-  - CVPR (2022, 2023, 2024, 2025)
+  - CVPR (2022, 2023, 2024, 2025, 2026)
   - MM (2024)
   - ECCV (2022, 2024)
   - 3DV (2025)
@@ -211,6 +211,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
