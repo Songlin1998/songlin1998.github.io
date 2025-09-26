@@ -71,7 +71,19 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Dense Semantic Matching with VGGT Prior**
+  
+  **Songlin Yang**, [Tianyi Wei](https://scholar.google.com/citations?user=-wfXmM4AAAAJ&hl=zh-CN), [Yushi Lan](https://nirvanalan.github.io/), [Zeqi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=6sr_HqMAAAAJ), [Anyi Rao](https://anyirao.com), [Xingang Pan](https://xingangpan.github.io/index.html)  
+ 
+ [Paper](https://arxiv.org/abs/2509.21263)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Textured 3D Regenerative Morphing with 3D Diffusion Prior**
@@ -82,8 +94,19 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   [Paper](https://arxiv.org/pdf/2502.14316) [Project](https://songlin1998.github.io/Textured-3D-Morphing/)
   
   </div>
-  </div>
+  </div>  
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **Instant Preference Alignment for Text-to-Image Diffusion Models**
   
+  [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Xiaoxuan Han](https://github.com/hxxdtd), [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), [Yueming Lyu](https://yueming6568.github.io), Ziyu Xue
+  
+  [Paper](https://arxiv.org/abs/2508.17718)
+  
+  </div>
+  </div>
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2025</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -138,7 +161,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
@@ -212,6 +235,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
