@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am the recipient of [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
+I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am the recipient of [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program) and [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
   
 # 🔈**JOIN US!**
 
@@ -29,6 +29,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - **Trustworthy AIGC**: Robustness, Privacy, Watermark, and Detection  
 
 # 🔥 News
+- 2025/09: I am granted by [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program).
 - 2025/07: One paper is accepted by IEEE TCSVT.
 - 2025/06: One paper is accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
 - 2025/05: One paper is accepted by [ICML 2025](https://icml.cc/).
@@ -235,6 +236,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
