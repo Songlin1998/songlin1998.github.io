@@ -203,6 +203,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 🎖️ Awards
 
+- [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program). 2025
 - [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). 2024
 - National Scholarship (Graduate). 2023
 - National Scholarship (Bachelor). 2018
@@ -236,6 +237,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
