@@ -92,7 +92,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   **Songlin Yang**, [Yushi Lan](https://nirvanalan.github.io/), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), [Xingang Pan](https://xingangpan.github.io/index.html)  
 
   [Proceedings of the IEEE/CVF International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), 2025  
-  [Paper](https://arxiv.org/pdf/2502.14316) [Project](https://songlin1998.github.io/Textured-3D-Morphing/)
+  [Paper](https://arxiv.org/pdf/2502.14316) [Project](https://songlin1998.github.io/Textured-3D-Morphing/) [Code](https://github.com/Songlin1998/Textured-3D-DiffMorpher?tab=readme-ov-file)
   
   </div>
   </div>  
@@ -237,6 +237,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
