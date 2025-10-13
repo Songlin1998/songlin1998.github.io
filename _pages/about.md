@@ -79,7 +79,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   
   **Songlin Yang**, [Tianyi Wei](https://scholar.google.com/citations?user=-wfXmM4AAAAJ&hl=zh-CN), [Yushi Lan](https://nirvanalan.github.io/), [Zeqi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=6sr_HqMAAAAJ), [Anyi Rao](https://anyirao.com), [Xingang Pan](https://xingangpan.github.io/index.html)  
  
- [Paper](https://arxiv.org/abs/2509.21263)  
+ [Paper](https://arxiv.org/abs/2509.21263) [Code](https://github.com/Songlin1998/VGGT-SM)  
   
   </div>
   </div>
@@ -237,6 +237,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
