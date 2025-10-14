@@ -29,7 +29,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - **Trustworthy AIGC**: Robustness, Privacy, Watermark, and Detection  
 
 # 🔥 News
-- 2025/09: I am granted by [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program).
+- 2025/09: <font color="red">I am granted by </font> [<font color="red"> IEEE Signal Processing Society (SPS) Scholarship </font>](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program).
 - 2025/07: One paper is accepted by IEEE TCSVT.
 - 2025/06: One paper is accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
 - 2025/05: One paper is accepted by [ICML 2025](https://icml.cc/).
@@ -237,6 +237,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
