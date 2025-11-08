@@ -29,6 +29,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - **Trustworthy AIGC**: Robustness, Privacy, Watermark, and Detection  
 
 # 🔥 News
+- 2025/11: One paper is accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - 2025/09: <font color="red">I am granted by </font> [<font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font>](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program)
 - 2025/07: One paper is accepted by IEEE TCSVT.
 - 2025/06: One paper is accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
@@ -96,6 +97,18 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   
   </div>
   </div>  
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/publications/mllm_iqa.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Revisiting MLLM Based Image Quality Assessment: Errors and Remedy**
+  
+  [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)
+ 
+ Paper
+  
+  </div>
+  </div>
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -237,6 +250,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
