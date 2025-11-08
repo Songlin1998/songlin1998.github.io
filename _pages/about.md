@@ -98,7 +98,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>  
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/mllm_iqa.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/publications/mllm_iqa.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Revisiting MLLM Based Image Quality Assessment: Errors and Remedy**
@@ -250,6 +250,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
