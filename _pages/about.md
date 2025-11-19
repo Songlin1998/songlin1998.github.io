@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am the recipient of [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program) and [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
+I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am the recipient of [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients) and [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
   
 # 🔈**JOIN US!**
 
@@ -30,7 +30,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 🔥 News
 - 2025/11: One paper is accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
-- 2025/09: <font color="red">I am granted by </font> [<font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font>](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program)
+- 2025/09: <font color="red">I am granted by </font> [<font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font>](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients)
 - 2025/07: One paper is accepted by IEEE TCSVT.
 - 2025/06: One paper is accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
 - 2025/05: One paper is accepted by [ICML 2025](https://icml.cc/).
@@ -59,17 +59,10 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 💻 Work Experience
 
-- **Research Associate, MMLab@NTU, S-Lab, Nanyang Technological University**  
-  Supervisor: [Xingang Pan](https://xingangpan.github.io/index.html)
-
-- **Research Intern, Content Generation Group, SenseTime Research**  
-  Supervisors: [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/) and [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ)
-  
- - **Research Intern, Machine Learning Group, MicroSoft Research Lab Asia (MSRA)**  
-  Supervisors: [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao) and [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ)
-  
- - **Research Intern, Identity Verification Group, SenseTime Research**   
-  Supervisors: Chenye Xu and [Yichao Wu](https://scholar.google.com/citations?hl=zh-CN&user=20Its9kAAAAJ)
+- Research Associate, [MMLab@NTU](https://www.mmlab-ntu.com/), [Nanyang Technological University](https://www.ntu.edu.sg/)  
+- Research Intern, Content Generation Group, [SenseTime Research](https://www.sensetime.com/en)   
+- Research Intern, Machine Learning Group, [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)  
+- Research Intern, Identity Verification Group, [SenseTime Research](https://www.sensetime.com/en)  
 
 # 📝 Selected Publications
 
@@ -218,17 +211,17 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 🎖️ Awards
 
-- [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/community-involvement/sps-scholarship-program). 2025
-- [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). 2024
-- National Scholarship (Graduate). 2023
-- National Scholarship (Bachelor). 2018
-- Provincial Outstanding Graduate. 2021
-- Provincial Outstanding Bachelor Thesis Award. 2021
-- President Scholarship of Nanjing University of Aeronautics and Astronautics. 2020
-- Outstanding Graduate of Nanjing University of Aeronautics and Astronautics. 2021
-- Outstanding Student of University of Chinese Academy of Sciences. 2022, 2023, 2024
-- Scholarship of Aviation Industry Corporation of China. 2019, 2020
-- Outstanding Reviewer for [CVPR Workshop](https://cveu.github.io/), 2025
+- [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients) (2025). 
+- [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574) (2024). 
+- National Scholarship - Graduate (2023). 
+- National Scholarship - Bachelor (2018).  
+- Provincial Outstanding Graduate (2021).  
+- Provincial Outstanding Bachelor Thesis Award (2021). 
+- President Scholarship of Nanjing University of Aeronautics and Astronautics (2020). 
+- Outstanding Graduate of Nanjing University of Aeronautics and Astronautics (2021). 
+- Outstanding Student of University of Chinese Academy of Sciences (2022, 2023, 2024). 
+- Scholarship of Aviation Industry Corporation of China (2019, 2020). 
+- Outstanding Reviewer for [CVPR Workshop](https://cveu.github.io/) (2025).  
 
 # 🕴️ Professional Services
 - Organizer for [CVEU Workshop](https://cveu.github.io/) at CVPR 2025.
@@ -252,6 +245,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
