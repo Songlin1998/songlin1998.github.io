@@ -51,7 +51,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   Supervisors: [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)  
 
 - **M.S. in [New Lab of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
-  Supervisors: [Wei Wang](https://scholar.google.com/citations?user=Om9jSl8AAAAJ) and [Jing Dong](https://scholar.google.com/citations?user=cf4RSDoAAAAJ&hl=zh-CN)
+  Supervisors: [Wei Wang](https://scholar.google.com/citations?user=Om9jSl8AAAAJ) and [Jing Dong](https://scholar.google.com/citations?user=cf4RSDoAAAAJ&hl=zh-CN)  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574))  
 
 - **B.E. in Nanjing University of Aeronautics and Astronautics**  
@@ -245,6 +245,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
