@@ -24,7 +24,7 @@ I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [
 Inspired by Richard Feynman’s “What I cannot create, I do not understand,” I aim to understand and enhance human intelligence through generative AI. My research seeks to advance multimodal AIGC to spark human creativity while prioritizing safety and ethics.  
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
-  - **Foundation Model**: Generation Model, Unified Mlutimodal Model, and Agentic System  
+  - **Foundation Model**: Generation Model, Unified Multimodal Model, and Agentic System  
   - **Creator-Machine Co-Learning**: Personalization, Interactivity, and Assessment  
   - **Trustworthy AIGC**: Robustness, Privacy, Watermark, and Detection  
 
@@ -245,6 +245,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
