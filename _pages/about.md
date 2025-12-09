@@ -29,6 +29,8 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - **Trustworthy AIGC**: Robustness, Privacy, Watermark, and Detection  
 
 # 🔥 News
+
+<style> .news-scroll { max-height: 14.4em; /* 10 lines × 1.6em line height */ line-height: 1.6em; overflow-y: auto; padding-right: 10px; margin-bottom: 1em; border-left: 4px solid #eee; padding-left: 10px; } /* Optional scrollbar style for WebKit (Chrome, Safari) */ .news-scroll::-webkit-scrollbar { width: 6px; } .news-scroll::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.2); border-radius: 4px; } .news-scroll::-webkit-scrollbar-track { background: transparent; } </style>
 - 2025/11: One paper is accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - 2025/09: <font color="red">I am granted by </font> [<font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font>](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients)
 - 2025/07: One paper is accepted by IEEE TCSVT.
@@ -246,6 +248,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
