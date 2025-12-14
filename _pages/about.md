@@ -30,6 +30,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 🔥 News
 
+- 2025/12: One paper is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 - 2025/11: One paper is accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - 2025/09: <font color="red">I am granted by </font> [<font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font>](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients)
 - 2025/07: One paper is accepted by IEEE TCSVT.
@@ -133,6 +134,19 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
+  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+  Pattern Recognition, 2025  
+  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
+  
+  </div>
+  </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -172,17 +186,6 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
-  
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
-
-  [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
-  
-  </div>
-  </div>
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -247,6 +250,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
