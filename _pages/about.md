@@ -61,7 +61,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 💻 Work Experience
 
-- **Student Researcher, Intelligent Creation Group, PCG, [Tencent](https://www.tencent.com/en-us/)**
+- **Student Researcher, Intelligent Video Creation Group, PCG, [Tencent](https://www.tencent.com/en-us/)**
 - **Research Associate, [MMLab@NTU](https://www.mmlab-ntu.com/), [Nanyang Technological University](https://www.ntu.edu.sg/)**  
 - **Research Intern, Content Generation Group, [SenseTime Research](https://www.sensetime.com/en)**   
 - **Research Intern, Machine Learning Group, [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**  
@@ -250,6 +250,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
