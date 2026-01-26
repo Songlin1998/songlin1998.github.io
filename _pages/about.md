@@ -30,6 +30,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 🔥 News
 
+- 2026/01: One paper is accepted by [ICLR 2026](https://iclr.cc/).
 - 2025/12: One paper is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 - 2025/11: One paper is accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - 2025/09: <font color="red">I am granted by </font> [<font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font>](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients)
@@ -77,6 +78,18 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   **Songlin Yang**, [Tianyi Wei](https://scholar.google.com/citations?user=-wfXmM4AAAAJ&hl=zh-CN), [Yushi Lan](https://nirvanalan.github.io/), [Zeqi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=6sr_HqMAAAAJ), [Anyi Rao](https://anyirao.com), [Xingang Pan](https://xingangpan.github.io/index.html)  
  
  [Paper](https://arxiv.org/abs/2509.21263) [Code](https://github.com/Songlin1998/VGGT-SM)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/alpha.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Alpha-DPO: Robust Preference Alignment for Diffusion Models via Alpha Divergence**
+  
+  [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Xiaoxuan Han](https://github.com/hxxdtd), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+ 
+ [Paper](https://openreview.net/forum?id=wqbnA6PcKr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  
   
   </div>
   </div>
@@ -250,6 +263,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
