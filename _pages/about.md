@@ -70,7 +70,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 📝 Selected Publications
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Dense Semantic Matching with VGGT Prior**
@@ -88,7 +88,8 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   **Alpha-DPO: Robust Preference Alignment for Diffusion Models via Alpha Divergence**
   
   [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Xiaoxuan Han](https://github.com/hxxdtd), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
- 
+
+ [The Fourteenth International Conference on Learning Representations](https://iclr.cc/), 2026  
  [Paper](https://openreview.net/forum?id=wqbnA6PcKr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  
   
   </div>
@@ -121,7 +122,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Instant Preference Alignment for Text-to-Image Diffusion Models**
@@ -263,6 +264,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
