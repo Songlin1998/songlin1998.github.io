@@ -247,23 +247,18 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-2024).
 - IEEE Student Member (2021-Now).
 - ACM Member (2024-Now).
-- Conference Reviewer
-  - AAAI (2023, 2024, 2025, 2026)
-  - ICCV (2025)
-  - SIGGRAPH (2025)
-  - CVPR (2022, 2023, 2024, 2025, 2026)
-  - ICLR (2026)
-  - MM (2024)
-  - ECCV (2022, 2024)
-  - 3DV (2025)
 - Journal Reviewer
   - IEEE Transactions on Multimedia (TMM)
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
   - Pattern Recognition (PR)
+- Conference Reviewer
+  - AAAI (2023, 2024, 2025, 2026), ICCV (2025), SIGGRAPH (2025), CVPR (2022, 2023, 2024, 2025, 2026), ICLR (2026), MM (2024), ECCV (2022, 2024), 3DV (2025)
+
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
