@@ -117,7 +117,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
   [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-26/), 2026
  
- [Paper](https://www.arxiv.org/abs/2511.07812)
+ [Paper](https://www.arxiv.org/abs/2511.07812) [Code](https://github.com/2kxx/Q-Scorer)  
   
   </div>
   </div>
@@ -265,6 +265,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
