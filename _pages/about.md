@@ -34,12 +34,12 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 - 2025/12: One paper is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 - 2025/11: One paper is accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - 2025/09: <font color="red">I am granted by </font> [<font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font>](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients)
-- 2025/07: One paper is accepted by IEEE TCSVT.
+- 2025/07: One paper is accepted by [IEEE TCSVT](https://ieee-cas.org/publication/tcsvt).
 - 2025/06: One paper is accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025).
 - 2025/05: One paper is accepted by [ICML 2025](https://icml.cc/).
 - 2025/02: We are organizing [the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding](https://cveu.github.io/) at CVPR 2025.
 - 2024/07: <font color="red">I am awarded the 2024 Outstanding Thesis Award by </font> [<font color="red">BSIG!</font>](http://www.bsig.org.cn/detail/2574)
-- 2024/07: One paper is accepted by ACM TOMM.
+- 2024/07: One paper is accepted by [ACM TOMM](https://dl.acm.org/journal/tomm).
 - 2024/06: I am invited to give a talk about my Master's thesis ([slides](https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf)).
 - 2024/05: I have successfully defended my Master's thesis.  
 - 2024/03: One paper is accepted by [ICME 2024](https://2024.ieeeicme.org/).  
@@ -252,6 +252,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
   - Pattern Recognition (PR)
+  - International Journal of Computer Vision (IJCV)
 - Conference Reviewer
   - AAAI (2023, 2024, 2025, 2026)
   - ICCV (2025)
@@ -261,10 +262,12 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - MM (2024)
   - ECCV (2022, 2024)
   - 3DV (2025)
+  - BMVC (2026)
 
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
