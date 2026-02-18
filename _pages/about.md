@@ -70,6 +70,19 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Human-Centric Content Generation with Diffusion Models: A Survey**
+  
+  **Songlin Yang**, [Yueming Lyu](https://scholar.google.com/citations?user=TxuK84wAAAAJ), [Ziyuan Chen](https://github.com/Etherealllllll), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Xiaoxuan Han](https://openreview.net/profile?id=~Xiaoxuan_Han1), [Pei Yang](https://github.com/YoungP2001), [Ziye Wang](https://github.com/wzy1111111), [Anyi Rao](https://anyirao.com/), [Ziwei Liu](https://liuziwei7.github.io/), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Caifeng Shan](https://caifeng-shan.github.io/), [Xiaoming Liu](https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=zh-CN), [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN), [Chenyang Si](https://scholar.google.com/citations?user=XdahAuoAAAAJ&hl=en)   
+ 
+ [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177138906.63173113/v1) [Project](https://github.com/Songlin1998/awesome-diffusion-human-centric)  
+  
+  </div>
+  </div>
+
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -267,6 +280,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
