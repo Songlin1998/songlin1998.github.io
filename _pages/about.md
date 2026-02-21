@@ -30,6 +30,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 🔥 News
 
+- 2026/02: One paper is accepted by [CVPR 2026](https://cvpr.thecvf.com/).
 - 2026/01: One paper is accepted by [ICLR 2026](https://iclr.cc/).
 - 2025/12: One paper is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
 - 2025/11: One paper is accepted by [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
@@ -91,6 +92,19 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   **Songlin Yang**, [Tianyi Wei](https://scholar.google.com/citations?user=-wfXmM4AAAAJ&hl=zh-CN), [Yushi Lan](https://nirvanalan.github.io/), [Zeqi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=6sr_HqMAAAAJ), [Anyi Rao](https://anyirao.com), [Xingang Pan](https://xingangpan.github.io/index.html)  
  
  [Paper](https://arxiv.org/abs/2509.21263) [Code](https://github.com/Songlin1998/VGGT-SM)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/hallucination.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination**
+  
+  [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+
+ [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), 2026  
+ Paper 
   
   </div>
   </div>
@@ -280,6 +294,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
