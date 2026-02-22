@@ -63,7 +63,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 💻 Work Experience
 
-- **Student Researcher, Intelligent Video Creation Group, PCG, [Tencent](https://www.tencent.com/en-us/)**
+- **Student Researcher, Tencent Video AI Center, PCG, [Tencent](https://www.tencent.com/en-us/)**
 - **Research Associate, [MMLab@NTU](https://www.mmlab-ntu.com/), [Nanyang Technological University](https://www.ntu.edu.sg/)**  
 - **Research Intern, Content Generation Group, [SenseTime Research](https://www.sensetime.com/en)**   
 - **Research Intern, Machine Learning Group, [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**  
@@ -122,19 +122,6 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Textured 3D Regenerative Morphing with 3D Diffusion Prior**
-  
-  **Songlin Yang**, [Yushi Lan](https://nirvanalan.github.io/), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), [Xingang Pan](https://xingangpan.github.io/index.html)  
-
-  [Proceedings of the IEEE/CVF International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), 2025  
-  [Paper](https://arxiv.org/pdf/2502.14316) [Project](https://songlin1998.github.io/Textured-3D-Morphing/) [Code](https://github.com/Songlin1998/Textured-3D-DiffMorpher?tab=readme-ov-file)
-  
-  </div>
-  </div>  
-
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/publications/mllm_iqa.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
@@ -160,6 +147,19 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   
   </div>
   </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Textured 3D Regenerative Morphing with 3D Diffusion Prior**
+  
+  **Songlin Yang**, [Yushi Lan](https://nirvanalan.github.io/), [Honghua Chen](https://chenhonghua.github.io/clay.github.io/), [Xingang Pan](https://xingangpan.github.io/index.html)  
+
+  [Proceedings of the IEEE/CVF International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), 2025  
+  [Paper](https://arxiv.org/pdf/2502.14316) [Project](https://songlin1998.github.io/Textured-3D-Morphing/) [Code](https://github.com/Songlin1998/Textured-3D-DiffMorpher?tab=readme-ov-file)
+  
+  </div>
+  </div>  
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2025</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -270,6 +270,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 - Outstanding Reviewer for [CVPR Workshop](https://cveu.github.io/) (2025).  
 
 # 🕴️ Professional Services
+
 - Organizer for [CVEU Workshop](https://cveu.github.io/) at CVPR 2025.
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-2024).
 - IEEE Student Member (2021-Now).
@@ -292,53 +293,5 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - BMVC (2026)
 
 
-
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
