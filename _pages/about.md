@@ -30,6 +30,30 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 # 🔥 News
 
+<style>
+.news-scroll {
+  max-height: 14.4em;     /* 10 lines × 1.6em line height */
+  line-height: 1.6em;
+  overflow-y: auto;
+  padding-right: 10px;
+  margin-bottom: 1em;
+  border-left: 4px solid #eee;
+  padding-left: 10px;
+}
+/* Optional scrollbar style for WebKit (Chrome, Safari) */
+.news-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.news-scroll::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+.news-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+</style>
+<div class="news-scroll">
+
 - 2026/02: One paper is accepted by [CVPR 2026](https://cvpr.thecvf.com/).
 - 2026/01: One paper is accepted by [ICLR 2026](https://iclr.cc/).
 - 2025/12: One paper is accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition).
@@ -48,6 +72,8 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 - 2023/12: One paper is accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
 - 2023/10: I am granted by National Scholarship (Graduate)!
 - 2023/07: One paper is accepted by [MM 2023](https://www.acmmm2023.org/).
+
+</div>
 
 # 👨‍🎓 Education
 
@@ -294,4 +320,5 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
