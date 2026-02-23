@@ -54,24 +54,24 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 </style>
 <div class="news-scroll">
 
-· 2026/02: One paper is accepted by CVPR 2026.
-· 2026/01: One paper is accepted by ICLR 2026.
-· 2025/12: One paper is accepted by Pattern Recognition.
-· 2025/11: One paper is accepted by AAAI 2026.
-· 2025/09: <font color="red">I am granted by </font> <a href="https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients"><font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font></a>.
-· 2025/07: One paper is accepted by IEEE TCSVT.
-· 2025/06: One paper is accepted by ICCV 2025.
-· 2025/05: One paper is accepted by ICML 2025.
-· 2025/02: We are organizing <a href="https://cveu.github.io/">the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding</a> at CVPR 2025.
-· 2024/07: <font color="red">I am awarded the 2024 Outstanding Thesis Award by </font> <a href="http://www.bsig.org.cn/detail/2574"><font color="red">BSIG!</font></a>.
-· 2024/07: One paper is accepted by ACM TOMM.
-· 2024/06: I am invited to give a talk about my Master's thesis (<a href="https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf">slides</a>).
-· 2024/05: I have successfully defended my Master's thesis.  
-· 2024/03: One paper is accepted by ICME 2024.  
-· 2024/01: I am invited by AI TIME to give a <a href="https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e">talk</a> (in Chinese) about <a href="https://arxiv.org/pdf/2312.10422.pdf">PlaneDict (AAAI 2024)</a>.
-· 2023/12: One paper is accepted by AAAI 2024.
-· 2023/10: I am granted by National Scholarship (Graduate)!
-· 2023/07: One paper is accepted by MM 2023.
+· 2026/02: One paper is accepted by CVPR 2026.  
+· 2026/01: One paper is accepted by ICLR 2026.  
+· 2025/12: One paper is accepted by Pattern Recognition.  
+· 2025/11: One paper is accepted by AAAI 2026.  
+· 2025/09: <font color="red">I am granted by </font> <a href="https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients"><font color="red">IEEE Signal Processing Society (SPS) Scholarship!</font></a>.  
+· 2025/07: One paper is accepted by IEEE TCSVT.  
+· 2025/06: One paper is accepted by ICCV 2025.  
+· 2025/05: One paper is accepted by ICML 2025.  
+· 2025/02: We are organizing <a href="https://cveu.github.io/">the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding</a> at CVPR 2025.  
+· 2024/07: <font color="red">I am awarded the 2024 Outstanding Thesis Award by </font> <a href="http://www.bsig.org.cn/detail/2574"><font color="red">BSIG!</font></a>.  
+· 2024/07: One paper is accepted by ACM TOMM.  
+· 2024/06: I am invited to give a talk about my Master's thesis (<a href="https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf">slides</a>).  
+· 2024/05: I have successfully defended my Master's thesis.    
+· 2024/03: One paper is accepted by ICME 2024.    
+· 2024/01: I am invited by AI TIME to give a <a href="https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e">talk</a> (in Chinese) about <a href="https://arxiv.org/pdf/2312.10422.pdf">PlaneDict (AAAI 2024)</a>.  
+· 2023/12: One paper is accepted by AAAI 2024.  
+· 2023/10: I am granted by National Scholarship (Graduate)!  
+· 2023/07: One paper is accepted by MM 2023.  
 
 </div>
 
@@ -320,6 +320,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
