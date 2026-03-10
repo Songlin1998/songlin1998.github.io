@@ -7,10 +7,10 @@ main:
     url: "/#-work-experience"
 
   - title: "Publication"
-    url: "/#selected-publications"
+    url: "/#-selected-publications"
 
   - title: "Award"
-    url: "/#️-awards"
+    url: "/#-awards"
 
   - title: "Service"
     url: "/#-professional-services"
@@ -23,4 +23,5 @@ main:
 
   # - title: "Teaching"
   #   url: "/#-teaching"
+
 
