@@ -76,6 +76,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 </div>
 
 # 👨‍🎓 Education
+{: #education }
 
 - **PhD Student in [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)**   
   Supervisors: [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)  
@@ -88,6 +89,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   Thesis: Face De-Identification based on Generative Adversarial Networks (Jiangsu Outstanding Thesis Award)  
 
 # 💻 Work Experience
+{: #work }
 
 - **Student Researcher, Tencent Video AI Center, PCG, [Tencent](https://www.tencent.com/en-us/)**
 - **Research Associate, [MMLab@NTU](https://www.mmlab-ntu.com/), [Nanyang Technological University](https://www.ntu.edu.sg/)**  
@@ -96,6 +98,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 - **Research Intern, Identity Verification Group, [SenseTime Research](https://www.sensetime.com/en)**  
 
 # 📝 Selected Publications
+{: #publication }
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -282,6 +285,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
 
 # 🎖️ Awards
+{: #award }
 
 - [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients) (2025). 
 - [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574) (2024). 
@@ -296,6 +300,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 - Outstanding Reviewer for [CVPR Workshop](https://cveu.github.io/) (2025).  
 
 # 🕴️ Professional Services
+{: #service }
 
 - Organizer for [CVEU Workshop](https://cveu.github.io/) at CVPR 2025.
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-2024).
@@ -320,6 +325,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
+
 
 
 
