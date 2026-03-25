@@ -95,7 +95,14 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 - **Research Associate, [MMLab@NTU](https://www.mmlab-ntu.com/), [Nanyang Technological University](https://www.ntu.edu.sg/)**  
 - **Research Intern, Content Generation Group, [SenseTime Research](https://www.sensetime.com/en)**   
 - **Research Intern, Machine Learning Group, [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**  
-- **Research Intern, Identity Verification Group, [SenseTime Research](https://www.sensetime.com/en)**  
+- **Research Intern, Identity Verification Group, [SenseTime Research](https://www.sensetime.com/en)**
+
+# 🎙️ Invited Talk
+{: #talk }
+
+- Redefining the Next Generation of AIGC Narratives, [HKSTP](https://www.hkstp.org/)
+- [Learning Dense Correspondence for NeRF-Based Face Reenactment](https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e), [AI TIME](https://www.aitime.cn/)
+
 
 # 📝 Selected Publications
 {: #publication }
