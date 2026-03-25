@@ -322,6 +322,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - ECCV (2022, 2024)
   - 3DV (2025)
   - BMVC (2026)
+  - NeurIPS (2026)
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
