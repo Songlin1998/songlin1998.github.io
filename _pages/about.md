@@ -65,7 +65,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 ∙ 2025/02: We are organizing <a href="https://cveu.github.io/">the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding</a> at CVPR 2025.<br />
 ∙ 2024/07: <font color="red">I am awarded the 2024 Outstanding Thesis Award by </font> <a href="http://www.bsig.org.cn/detail/2574"><font color="red">BSIG!</font></a>.<br />
 ∙ 2024/07: One paper is accepted by ACM TOMM.<br />
-∙ 2024/06: I am invited to give a talk about my Master's thesis (<a href="https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf">slides</a>).  
+∙ 2024/06: I am invited to give a talk about my Master's thesis (<a href="https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf">slides</a>).<br />
 ∙ 2024/05: I have successfully defended my Master's thesis.<br />
 ∙ 2024/03: One paper is accepted by ICME 2024.<br />
 ∙ 2024/01: I am invited by AI TIME to give a <a href="https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e">talk</a> (in Chinese) about <a href="https://arxiv.org/pdf/2312.10422.pdf">PlaneDict (AAAI 2024)</a>.<br />
