@@ -54,7 +54,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 </style>
 <div class="news-scroll">
 
-∙ 2026/02: One paper is accepted by CVPR 2026.<br />
+∙ 2026/02: One paper is accepted by CVPR 2026 (Highlight).<br />
 ∙ 2026/01: One paper is accepted by ICLR 2026.<br /> 
 ∙ 2025/12: One paper is accepted by Pattern Recognition.<br />
 ∙ 2025/11: One paper is accepted by AAAI 2026.<br />
@@ -132,7 +132,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/hallucination.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Highlight)</div><img src='images/publications/hallucination.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination**
