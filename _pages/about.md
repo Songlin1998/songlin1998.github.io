@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am the recipient of [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients) and [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [Tencent](https://www.tencent.com/en-us/), [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
+I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am supported by [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients) and [Tencent Project UP (Qingyun)](https://join.qq.com/qingyun.html), and I am the recipient of [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [Tencent](https://www.tencent.com/en-us/), [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
   
 # 🔈**JOIN US!**
 
@@ -54,6 +54,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 </style>
 <div class="news-scroll">
 
+∙ 2026/04: We are organizing <a href="https://cveu.github.io/">the 10th CVEU Workshop </a> at SIGGRAPH 2026.<br />
 ∙ 2026/02: One paper is accepted by CVPR 2026 (Highlight).<br />
 ∙ 2026/01: One paper is accepted by ICLR 2026.<br /> 
 ∙ 2025/12: One paper is accepted by Pattern Recognition.<br />
@@ -294,6 +295,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 # 🎖️ Awards
 {: #award }
 
+- [Tencent Project UP (Qingyun)](https://join.qq.com/qingyun.html) (2026).
 - [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients) (2025). 
 - [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574) (2024). 
 - National Scholarship - Graduate (2023). 
@@ -309,6 +311,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 # 🕴️ Professional Services
 {: #service }
 
+- Chair for Organizing Committee of [CVEU Workshop](https://cveu.github.io/) at SIGGRAPH 2026.
 - Organizer for [CVEU Workshop](https://cveu.github.io/) at CVPR 2025.
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-2024).
 - IEEE Student Member (2021-Now).
