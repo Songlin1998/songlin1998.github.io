@@ -54,6 +54,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 </style>
 <div class="news-scroll">
 
+∙ 2026/04: <font color="red">I am granted by </font> <a href="https://join.qq.com/qingyun.html"><font color="red">Tencent Project UP (Qingyun)!</font></a>.<br />
 ∙ 2026/04: We are organizing <a href="https://cveu.github.io/">the 10th CVEU Workshop </a> at SIGGRAPH 2026.<br />
 ∙ 2026/02: One paper is accepted by CVPR 2026 (Highlight).<br />
 ∙ 2026/01: One paper is accepted by ICLR 2026.<br /> 
