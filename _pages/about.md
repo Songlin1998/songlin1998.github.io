@@ -103,7 +103,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 # 🎙️ Invited Talk
 {: #talk }
 
-- Redefining the Next Generation of AIGC Narratives, [HKSTP](https://www.hkstp.org/)
+- [Redefining the Next Generation of AIGC Narratives](https://www.linkedin.com/posts/hkscienceparkincubation_cocreation-startupecosystem-ai-activity-7450377447503704064-soqn?utm_source=share&utm_medium=member_desktop&rcm=ACoAADi9DBwBeCCo7c-RsZ3X8cbEklpyhnHYPn0), [HKSTP](https://www.hkstp.org/)
 - [Learning Dense Correspondence for NeRF-Based Face Reenactment](https://www.bilibili.com/video/BV1xW4y1c7Sc/?spm_id_from=333.788&vd_source=619d95e534c3977d77a6e3f15a4d5d7e), [AI TIME](https://www.aitime.cn/)
 
 
