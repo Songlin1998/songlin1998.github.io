@@ -293,20 +293,6 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR-W 2023</div><img src='images/publications/CVPRW23.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Exposing Fine-Grained Adversarial Vulnerability of Face Anti-Spoofing Models**
-  
-  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), Chenye Xu, [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/) 
-  
-  [IEEE Conference on Computer Vision and Pattern Recognition](https://cvpr2023.thecvf.com/) [Workshop](https://www.vislab.ucr.edu/Biometrics2023/index.php), 2023  
-  **Long Oral Presentation**  
-  [Paper](https://arxiv.org/pdf/2205.14851.pdf) 
-  
-  </div>
-  </div>
-
 # 🎖️ Awards
 {: #award }
 
