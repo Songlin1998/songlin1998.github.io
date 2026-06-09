@@ -327,6 +327,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   - AAAI (2023, 2024, 2025, 2026)
   - ICCV (2025)
   - SIGGRAPH (2025)
+  - SIGGRAPH Asia (2026)
   - CVPR (2022, 2023, 2024, 2025, 2026)
   - ICLR (2026)
   - MM (2024)
