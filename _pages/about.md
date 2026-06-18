@@ -54,6 +54,7 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
 </style>
 <div class="news-scroll">
 
+∙ 2026/06: One paper is accepted by ECCV 2026.<br />
 ∙ 2026/05: One paper is accepted by ICML 2026.<br />
 ∙ 2026/04: <font color="red">I am granted by </font> <a href="https://join.qq.com/qingyun.html"><font color="red">Tencent Project UP (Qingyun)!</font></a>.<br />
 ∙ 2026/04: We are organizing <a href="https://cveu.github.io/">the 10th CVEU Workshop </a> at SIGGRAPH 2026.<br />
@@ -123,13 +124,14 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   </div>
 
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
-  **Dense Semantic Matching with VGGT Prior**
+  **Towards Geometry-Grounded Dense Semantic Matching with VGGT Priors**
   
   **Songlin Yang**, [Tianyi Wei](https://scholar.google.com/citations?user=-wfXmM4AAAAJ&hl=zh-CN), [Yushi Lan](https://nirvanalan.github.io/), [Zeqi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=6sr_HqMAAAAJ), [Anyi Rao](https://anyirao.com), [Xingang Pan](https://xingangpan.github.io/index.html)  
- 
+
+  [The 19th European Conference on Computer Vision](https://eccv.ecva.net/), 2026  
  [Paper](https://arxiv.org/abs/2509.21263) [Code](https://github.com/Songlin1998/VGGT-SM)  
   
   </div>
@@ -142,7 +144,8 @@ Inspired by Richard Feynman’s “What I cannot create, I do not understand,”
   **RGGT: A Generative-Prior-Guided Transformer for Unified Rigid and Non-Rigid Point Cloud Registration**
   
   [Chengyu Zheng](https://openreview.net/profile?id=~Chengyu_Zheng2), **Songlin Yang**, [Jin Huang](https://yidahuang.github.io/), [Honghua Chen](https://scholar.google.com/citations?hl=zh-CN&user=S7yyHpAAAAAJ&view_op=list_works&sortby=pubdate), [Weiming Wang](https://openreview.net/profile?id=~Weiming_Wang3), [Haoran Xie](https://openreview.net/profile?id=~Haoran_Xie1), [Fu Lee Wang](https://openreview.net/profile?id=~Fu_Lee_Wang2), [Mingqiang Wei](https://mingqiangwei.github.io/)
- 
+
+ [Forty-Third International Conference on Machine Learning](https://icml.cc/), 2025  
  Paper
   
   </div>
