@@ -21,12 +21,12 @@ I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [
   
 # 🔈**JOIN US!**
 
-Inspired by Richard Feynman’s “What I cannot create, I do not understand,” I aim to understand and enhance human intelligence through generative AI. My research seeks to advance multimodal AIGC to spark human creativity while prioritizing safety and ethics.  
+My research seeks to build unified multimodal intelligence by bridging generation and understanding, enabling AI systems to perceive, reason, create, and improve through interaction and feedback. I focus on multimodal generation and reasoning, with foundations in generation-understanding unification and reinforcement learning, and applications in cinematic long-form video generation and broader AI4X scenarios.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
-  - **Foundation Model**: Generation Model, Unified Multimodal Model, and Agentic System  
-  - **Creator-Machine Co-Learning**: Personalization, Interactivity, and Assessment  
-  - **Trustworthy AIGC**: Robustness, Privacy, Watermark, and Detection  
+  - **Generation-Understanding Unification**: Unified Multimodal Model, Reinforcement Learning, Agentic System
+  - **Cinematic Video World Model**: Supervised Fine-Tuning, Evaluation/Reward Model, Post-Training, Understanding
+  - **Creator-Machine Co-Learning**: Personalization, Preference Learning, Trustworthy AIGC
 
 # 🔥 News
 
