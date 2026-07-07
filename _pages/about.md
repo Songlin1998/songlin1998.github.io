@@ -146,7 +146,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   [Chengyu Zheng](https://openreview.net/profile?id=~Chengyu_Zheng2), **Songlin Yang**, [Jin Huang](https://yidahuang.github.io/), [Honghua Chen](https://scholar.google.com/citations?hl=zh-CN&user=S7yyHpAAAAAJ&view_op=list_works&sortby=pubdate), [Weiming Wang](https://openreview.net/profile?id=~Weiming_Wang3), [Haoran Xie](https://openreview.net/profile?id=~Haoran_Xie1), [Fu Lee Wang](https://openreview.net/profile?id=~Fu_Lee_Wang2), [Mingqiang Wei](https://mingqiangwei.github.io/)
 
  [Forty-Third International Conference on Machine Learning](https://icml.cc/), 2025  
- Paper
+ [Paper](https://openreview.net/pdf?id=aZWB7XzT6n) [Code](https://github.com/zhengcy-lambo/RGGT)  
   
   </div>
   </div>
@@ -159,7 +159,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
  [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), 2026  
- [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Same_Attention_Different_Truths_Put_Logit-Lens_over_Visual_Attention_to_CVPR_2026_paper.pdf) 
+ [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Same_Attention_Different_Truths_Put_Logit-Lens_over_Visual_Attention_to_CVPR_2026_paper.pdf) [Code](https://github.com/wzczc/SADT)  
   
   </div>
   </div>
@@ -172,7 +172,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Xiaoxuan Han](https://github.com/hxxdtd), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
 
  [The Fourteenth International Conference on Learning Representations](https://iclr.cc/), 2026  
- [Paper](https://openreview.net/forum?id=wqbnA6PcKr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  
+ [Paper](https://openreview.net/forum?id=wqbnA6PcKr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  [Code](https://github.com/yangli-lab/Diffusion_alpha-DPO_ICLR2026/)  
   
   </div>
   </div>
