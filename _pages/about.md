@@ -86,7 +86,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   Supervisors: [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm)  
 
 - **M.S. in [New Lab of Pattern Recognition (NLPR)](http://cripac.ia.ac.cn/CN/model/index.htm), [CASIA Institute](http://www.ia.cas.cn/)**   
-  Supervisors: [Wei Wang](https://scholar.google.com/citations?user=Om9jSl8AAAAJ) and [Jing Dong](https://scholar.google.com/citations?user=cf4RSDoAAAAJ&hl=zh-CN)  
+  Supervisors: [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74) and [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
   Thesis: Dynamic Facial Editing based on Neural Radiance Fields ([BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574))  
 
 - **B.E. in [Nanjing University of Aeronautics and Astronautics](https://en.nuaa.edu.cn/)**  
@@ -116,7 +116,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Human-Centric Content Generation with Diffusion Models: A Survey**
   
-  **Songlin Yang**, [Yueming Lyu](https://scholar.google.com/citations?user=TxuK84wAAAAJ), [Ziyuan Chen](https://github.com/Etherealllllll), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Xiaoxuan Han](https://openreview.net/profile?id=~Xiaoxuan_Han1), [Pei Yang](https://github.com/YoungP2001), [Ziye Wang](https://github.com/wzy1111111), [Anyi Rao](https://anyirao.com/), [Ziwei Liu](https://liuziwei7.github.io/), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Caifeng Shan](https://caifeng-shan.github.io/), [Xiaoming Liu](https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=zh-CN), [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN), [Chenyang Si](https://scholar.google.com/citations?user=XdahAuoAAAAJ&hl=en)   
+  **Songlin Yang**, [Yueming Lyu](https://scholar.google.com/citations?user=TxuK84wAAAAJ), [Ziyuan Chen](https://github.com/Etherealllllll), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Xiaoxuan Han](https://openreview.net/profile?id=~Xiaoxuan_Han1), [Pei Yang](https://github.com/YoungP2001), [Ziye Wang](https://github.com/wzy1111111), [Anyi Rao](https://anyirao.com/), [Ziwei Liu](https://liuziwei7.github.io/), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Caifeng Shan](https://caifeng-shan.github.io/), [Xiaoming Liu](https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=zh-CN), [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN), [Chenyang Si](https://scholar.google.com/citations?user=XdahAuoAAAAJ&hl=en)   
  
  [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177138906.63173113/v1) [Project](https://github.com/Songlin1998/awesome-diffusion-human-centric)  
   
@@ -156,7 +156,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination**
   
-  [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
 
  [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), 2026  
  [Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_Same_Attention_Different_Truths_Put_Logit-Lens_over_Visual_Attention_to_CVPR_2026_paper.pdf) [Code](https://github.com/wzczc/SADT)  
@@ -169,7 +169,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Alpha-DPO: Robust Preference Alignment for Diffusion Models via Alpha Divergence**
   
-  [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Xiaoxuan Han](https://github.com/hxxdtd), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Xiaoxuan Han](https://github.com/hxxdtd), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
 
  [The Fourteenth International Conference on Learning Representations](https://iclr.cc/), 2026  
  [Paper](https://openreview.net/forum?id=wqbnA6PcKr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))  [Code](https://github.com/yangli-lab/Diffusion_alpha-DPO_ICLR2026/)  
@@ -182,7 +182,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Revisiting MLLM Based Image Quality Assessment: Errors and Remedy**
   
-  [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
 
   [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-26/), 2026
  
@@ -196,7 +196,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 
   **Instant Preference Alignment for Text-to-Image Diffusion Models**
   
-  [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Xiaoxuan Han](https://github.com/hxxdtd), [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/), [Yueming Lyu](https://yueming6568.github.io), Ziyu Xue
+  [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Xiaoxuan Han](https://github.com/hxxdtd), [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1), [Yueming Lyu](https://yueming6568.github.io), Ziyu Xue
   
   [Paper](https://arxiv.org/abs/2508.17718)
   
@@ -221,7 +221,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 
   **Beyond Inserting: Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation**
   
-  [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Yang Li](https://github.com/yangli-lab)\*, **Songlin Yang**\*, [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
   (\* Equal Contribution)  
 
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025  
@@ -235,7 +235,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
   
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Yang Li](https://github.com/yangli-lab), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
 
   Pattern Recognition, 2025  
   [Paper](https://arxiv.org/pdf/2404.19382) [Project](https://github.com/hxxdtd/PUND) [Survey](https://github.com/hxxdtd/Awesome-Diffusion-Model-Unlearning) [Code](https://github.com/hxxdtd/PUND)  
@@ -248,7 +248,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time**
 
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yang Li](https://github.com/yangli-lab), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Yang Li](https://github.com/yangli-lab), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
   
   [Forty-Second International Conference on Machine Learning](https://icml.cc/), 2025  
   [Paper](https://openreview.net/pdf?id=PdBEggnDIl)   
@@ -261,7 +261,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Learning Dense Correspondence for NeRF-Based Face Reenactment**
   
-  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Yushi Lan](https://nirvanalan.github.io/), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  **Songlin Yang**, [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Yushi Lan](https://nirvanalan.github.io/), [Xiangyu Fan](https://events.keep.edu.hk/cuhk/engg5700/2017/team/fan-xiangyu/), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Lei Yang](https://scholar.google.com/citations?hl=zh-CN&user=jZH2IPYAAAAJ), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
   
   [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/aaai-conference/), 2024  
   [Paper](https://arxiv.org/pdf/2312.10422.pdf) [Project](https://songlin1998.github.io/planedict/) [Code](https://github.com/Songlin1998/Oneshot-Tri-plane-Face-Reenactment)  
@@ -274,7 +274,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Context-Aware Talking-Head Video Editing**
   
-  **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  **Songlin Yang**, [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Jun Ling](https://scholar.google.com/citations?hl=zh-CN&user=XsfjhQ0AAAAJ), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xu Tan](https://scholar.google.com/citations?user=tob-U1oAAAAJ&hl=zh-CN&oi=ao), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
   
   [Proceedings of the 31st ACM International Conference on Multimedia](https://www.acmmm2023.org/), 2023  
   [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611765) [Project](https://songlin1998.github.io/THEdit/) [Code](https://github.com/Songlin1998/Talking-Head-Video-Editing)  
@@ -288,7 +288,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   **Exploiting Backdoors of Face Synthesis Detection with Natural Triggers**
   
-  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](http://cripac.ia.ac.cn/people/wwang/index.html), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](http://cripac.ia.ac.cn/people/jdong/)  
+  [Xiaoxuan Han](https://github.com/hxxdtd), **Songlin Yang**, [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Ziwen He](https://scholar.google.com/citations?user=PjkDK9cAAAAJ&hl=zh-CN&oi=sra), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
   ACM Transactions on Multimedia Computing Communications and Applications, 2024  
 
   [Paper](https://arxiv.org/pdf/2401.00414.pdf)  
@@ -316,7 +316,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 {: #service }
 
 - Chair for Organizing Committee of [CVEU Workshop](https://cveu.github.io/) at SIGGRAPH 2026.
-- Organizer for [CVEU Workshop](https://cveu.github.io/) at CVPR 2025.
+- Organizer for [CVEU Workshop](https://cveu.github.io/) at [CVPR 2025](https://cveu.github.io/event/cvpr2025.html), [CVPR 2026](https://cveu.github.io/event/cvpr2026.html).
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-2024).
 - IEEE Student Member (2021-Now).
 - ACM Member (2024-Now).
