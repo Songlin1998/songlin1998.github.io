@@ -54,6 +54,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 </style>
 <div class="news-scroll">
 
+∙ 2026/07: One paper is conditionally accepted by SIGGRAPH Asia 2026.<br />
 ∙ 2026/06: One paper is accepted by ECCV 2026.<br />
 ∙ 2026/05: One paper is accepted by ICML 2026.<br />
 ∙ 2026/04: <font color="red">I am granted by </font> <a href="https://join.qq.com/qingyun.html"><font color="red">Tencent Project UP (Qingyun)!</font></a>.<br />
