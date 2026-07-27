@@ -54,7 +54,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 </style>
 <div class="news-scroll">
 
-∙ 2026/07: Successfully organized [SIGGRAPH 2026 CVEU Course and Workshop](https://cveu.github.io/) as Chair.<br />
+∙ 2026/07: Successfully organized <a href="https://cveu.github.io/">SIGGRAPH 2026 CVEU Course and Workshop </a> as Chair.<br />
 ∙ 2026/07: One paper is conditionally accepted by SIGGRAPH Asia 2026.<br />
 ∙ 2026/06: One paper is accepted by ECCV 2026.<br />
 ∙ 2026/05: One paper is accepted by ICML 2026.<br />
