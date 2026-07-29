@@ -113,6 +113,19 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 # 📝 Selected Publications
 {: #publication }
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/evalverse.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation**
+  
+  **Songlin Yang**, Haobin Zhong, Ruilin Zhang, [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), Shuai Li, Kai Zheng, [Xuyi Yang](https://openreview.net/profile?id=~Xuyi_Yang1), [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://openreview.net/profile?id=~Yang_Li69), [Bohai Gu](https://openreview.net/profile?id=~Bohai_Gu1), [Zhengwei Peng](https://openreview.net/profile?id=~Zhengwei_Peng1), Yidan Huang, Mengzhou Luo, [Yihang Bo](https://openreview.net/profile?id=~Yihang_Bo3), [Dalu Feng](https://scholar.google.com/citations?hl=zh-CN&user=G0zjNu8AAAAJ), [Yujia Zhang](https://scholar.google.com/citations?hl=zh-CN&user=grqu20cAAAAJ&view_op=list_works&sortby=pubdate), Juntao Ma, Ruiqi Wang, [Lvmin Zhang](https://scholar.google.com/citations?user=ANMsdHYAAAAJ&hl=en), [Yuwei Guo](https://scholar.google.com/citations?user=K2ZLY98AAAAJ&hl=zh-CN), [Frank Guan](https://sites.google.com/view/frankguan), [Maneesh Agrawala](https://scholar.google.com/citations?user=YPzKczYAAAAJ&hl=en), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
+ 
+ [Paper](https://arxiv.org/pdf/2605.23271)  
+  
+  </div>
+  </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
