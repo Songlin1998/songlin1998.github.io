@@ -193,6 +193,19 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   </div>
   </div>
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Workshop)</div><img src='images/publications/pseudo.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models**
+  
+  **Songlin Yang**, [Xianghao Kong](https://scholar.google.com/citations?hl=zh-CN&user=yQ0CXqUAAAAJ&view_op=list_works&sortby=pubdate), [Anyi Rao](https://anyirao.com/)      
+
+   [The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop](https://cvpr.thecvf.com/), 2026  
+   [Paper](https://openaccess.thecvf.com/content/CVPR2026W/CVEU/html/Yang_Pseudo-Unification_Entropy_Probing_Reveals_Divergent_Information_Patterns_in_Unified_Multimodal_CVPRW_2026_paper.html)  
+  
+  </div>
+  </div>
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/alpha.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
