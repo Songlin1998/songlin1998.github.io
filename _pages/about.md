@@ -54,6 +54,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 </style>
 <div class="news-scroll">
 
+∙ 2026/08: One paper is accepted by IEEE TVCG.<br />
 ∙ 2026/07: Successfully organized <a href="https://cveu.github.io/">SIGGRAPH 2026 CVEU Course and Workshop </a> as Chair.<br />
 ∙ 2026/06: One paper is accepted by ECCV 2026.<br />
 ∙ 2026/05: One paper is accepted by ICML 2026.<br />
@@ -160,8 +161,21 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   [Chengyu Zheng](https://openreview.net/profile?id=~Chengyu_Zheng2), **Songlin Yang**, [Jin Huang](https://yidahuang.github.io/), [Honghua Chen](https://scholar.google.com/citations?hl=zh-CN&user=S7yyHpAAAAAJ&view_op=list_works&sortby=pubdate), [Weiming Wang](https://openreview.net/profile?id=~Weiming_Wang3), [Haoran Xie](https://openreview.net/profile?id=~Haoran_Xie1), [Fu Lee Wang](https://openreview.net/profile?id=~Fu_Lee_Wang2), [Mingqiang Wei](https://mingqiangwei.github.io/)
 
- [Forty-Third International Conference on Machine Learning](https://icml.cc/), 2025  
+ [Forty-Third International Conference on Machine Learning](https://icml.cc/), 2026  
  [Paper](https://openreview.net/pdf?id=aZWB7XzT6n) [Code](https://github.com/zhengcy-lambo/RGGT)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+  **Instant Preference Alignment for Text-to-Image Diffusion Models**
+  
+  [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Xiaoxuan Han](https://github.com/hxxdtd), [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1), [Yueming Lyu](https://yueming6568.github.io), Ziyu Xue
+
+  IEEE Transactions on Visualization and Computer Graphics, 2026   
+  [Paper](https://arxiv.org/abs/2508.17718)
   
   </div>
   </div>
@@ -202,18 +216,6 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-26/), 2026
  
  [Paper](https://www.arxiv.org/abs/2511.07812) [Code](https://github.com/2kxx/Q-Scorer)  
-  
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-
-  **Instant Preference Alignment for Text-to-Image Diffusion Models**
-  
-  [Yang Li](https://github.com/yangli-lab), **Songlin Yang**, [Xiaoxuan Han](https://github.com/hxxdtd), [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1), [Yueming Lyu](https://yueming6568.github.io), Ziyu Xue
-  
-  [Paper](https://arxiv.org/abs/2508.17718)
   
   </div>
   </div>
