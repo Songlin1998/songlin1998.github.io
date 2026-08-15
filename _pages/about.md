@@ -167,7 +167,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Instant Preference Alignment for Text-to-Image Diffusion Models**
