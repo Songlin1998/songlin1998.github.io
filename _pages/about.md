@@ -213,9 +213,35 @@ My research seeks to build unified multimodal intelligence by bridging generatio
   
   [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
 
-  [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-26/), 2026
- 
- [Paper](https://www.arxiv.org/abs/2511.07812) [Code](https://github.com/2kxx/Q-Scorer)  
+  [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-26/), 2026  
+  [Paper](https://www.arxiv.org/abs/2511.07812) [Code](https://github.com/2kxx/Q-Scorer)  
+  
+  </div>
+  </div>
+
+  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/publications/watermark.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+   **Copyright Protection by Trigger Query Optimization for Unified VLMs**
+  
+  [Xiaoxu Jin](https://openreview.net/profile?id=~Xiaoxu_Jin1), **Songlin Yang**, [Weinan Guan](https://openreview.net/profile?id=~Weinan_Guan1), [Wei Wang](https://openreview.net/profile?id=~Wei_Wang74),  [Yang Li](https://github.com/yangli-lab), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
+
+  [Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/web/#/home), 2026
+  Paper
+  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/publications/hand.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+
+   **HandEval: Taking the First Step Towards Hand Quality Evaluation in Generated Images**
+  
+ [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), **Songlin Yang**, [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
+
+  [Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/web/#/home), 2026  
+  [Paper](https://arxiv.org/abs/2510.08978)  
   
   </div>
   </div>
