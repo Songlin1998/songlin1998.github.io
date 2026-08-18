@@ -54,12 +54,13 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 </style>
 <div class="news-scroll">
 
+∙ 2026/08: We are organizing <a href="https://cveu.github.io/">the 1st AI Film Frontiers </a> at SIGGRAPH Asia 2026.<br />
 ∙ 2026/08: One paper is accepted by IEEE TVCG.<br />
-∙ 2026/07: Successfully organized <a href="https://cveu.github.io/">SIGGRAPH 2026 CVEU Course and Workshop </a> as Chair.<br />
+∙ 2026/07: Successfully organized <a href="https://cveu.github.io/event/sig2026.html">SIGGRAPH 2026 CVEU Course and Workshop </a> as Chair.<br />
 ∙ 2026/06: One paper is accepted by ECCV 2026.<br />
 ∙ 2026/05: One paper is accepted by ICML 2026.<br />
 ∙ 2026/04: <font color="red">I am granted by </font> <a href="https://join.qq.com/qingyun.html"><font color="red">Tencent Project UP (Qingyun)!</font></a>.<br />
-∙ 2026/04: We are organizing <a href="https://cveu.github.io/">the 10th CVEU Workshop </a> at SIGGRAPH 2026.<br />
+∙ 2026/04: We are organizing <a href="[https://cveu.github.io/](https://cveu.github.io/event/sig2026.html)">the 10th CVEU Workshop </a> at SIGGRAPH 2026.<br />
 ∙ 2026/02: Two papers are accepted by CVPR 2026 with one highlight.<br />
 ∙ 2026/01: One paper is accepted by ICLR 2026.<br /> 
 ∙ 2025/12: One paper is accepted by Pattern Recognition.<br />
@@ -68,7 +69,7 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 ∙ 2025/07: One paper is accepted by IEEE TCSVT.<br />
 ∙ 2025/06: One paper is accepted by ICCV 2025.<br />
 ∙ 2025/05: One paper is accepted by ICML 2025.<br />
-∙ 2025/02: We are organizing <a href="https://cveu.github.io/">the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding</a> at CVPR 2025.<br />
+∙ 2025/02: We are organizing <a href="https://cveu.github.io/event/cvpr2025.html">the 6th Workshop on AI for Creative Visual Content Generation Editing and Understanding</a> at CVPR 2025.<br />
 ∙ 2024/07: <font color="red">I am awarded the 2024 Outstanding Thesis Award by </font> <a href="http://www.bsig.org.cn/detail/2574"><font color="red">BSIG!</font></a>.<br />
 ∙ 2024/07: One paper is accepted by ACM TOMM.<br />
 ∙ 2024/06: I am invited to give a talk about my Master's thesis (<a href="https://github.com/Songlin1998/songlin1998.github.io/raw/main/docs/Songlin%20Yang-Talk-20240611.pdf">slides</a>).<br />
@@ -371,7 +372,8 @@ My research seeks to build unified multimodal intelligence by bridging generatio
 # 🕴️ Professional Services
 {: #service }
 
-- Chair for Organizing Committee of [CVEU Workshop](https://cveu.github.io/) at SIGGRAPH 2026.
+- Chair for Organizing Committee of [AI Film Frontiers](https://cveu.github.io/) at SIGGRAPH Asia 2026.
+- Chair for Organizing Committee of [CVEU Workshop](https://cveu.github.io/) at [SIGGRAPH 2026](https://cveu.github.io/event/sig2026.html).
 - Organizer for [CVEU Workshop](https://cveu.github.io/) at [CVPR 2025](https://cveu.github.io/event/cvpr2025.html), [CVPR 2026](https://cveu.github.io/event/cvpr2026.html).
 - Publicity Chair for [IEEE Beijing Biometrics Council Chapter](https://r10.ieee.org/beijing-bio/) (2021-2024).
 - IEEE Student Member (2021-Now).
