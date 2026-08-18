@@ -21,11 +21,11 @@ I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [
   
 # 🔈**JOIN US!**
 
-My research seeks to build unified multimodal intelligence by bridging generation and understanding, enabling AI systems to perceive, reason, create, and improve through interaction. I focus on multimodal generation and reasoning, with foundations in generation-understanding unification and reinforcement learning, and applications in cinematic long-form video generation and broader AI4X scenarios.
+My research seeks to build self-evolving multimodal intelligence by unifying generation and understanding, enabling AI systems to perceive, reason, create, and improve through interaction. I focus on multimodal generation and reasoning, with applications in cinematic long-form video generation and broader AI4X scenarios.
 
 <font color="red">Do not hesitate to drop me an email for any possible collaboration if you are interested in these directions:</font>
   - **Generation-Understanding Unification**: Unified Multimodal Model, Reinforcement Learning, Agentic System
-  - **Cinematic Video World Model**: Supervised Fine-Tuning, Evaluation/Reward Model, Post-Training, Understanding
+  - **Cinematic Video World Model**: Video Reasoning, Supervised Fine-Tuning, Evaluation/Reward Model, Post-Training
   - **Creator-Machine Co-Learning**: Personalization, Preference Learning, Trustworthy AIGC
 
 # 🔥 News
