@@ -54,6 +54,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 </style>
 <div class="news-scroll">
 
+∙ 2026/08: One paper is accepted by SIGGRAPH Asia 2026.<br />
 ∙ 2026/08: We are organizing <a href="https://cveu.github.io/">the 1st AI Film Frontiers </a> at SIGGRAPH Asia 2026.<br />
 ∙ 2026/08: One paper is accepted by IEEE TVCG.<br />
 ∙ 2026/07: Successfully organized <a href="https://cveu.github.io/event/sig2026.html">SIGGRAPH 2026 CVEU Course and Workshop </a> as Chair.<br />
@@ -140,6 +141,18 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/publications/shotverse.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation**
+  
+  **Songlin Yang**, [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Xuyi Yang](https://openreview.net/profile?id=~Xuyi_Yang1), [Songchun Zhang](https://scholar.google.com/citations?user=9M7ln4gAAAAJ&hl=en), [Xianghao Kong](https://scholar.google.com/citations?user=yQ0CXqUAAAAJ&hl=zh-CN), [Taiyi Wu](https://www.researchgate.net/scientific-contributions/Taiyi-Wu-2342578103), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Ran Zhang](https://scholar.google.com/citations?user=V5QsRzMAAAAJ&hl=en), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
+
+ [SIGGRAPH Asia](https://asia.siggraph.org/2026/), 2026  
+ [Paper](https://arxiv.org/abs/2603.11421) [Project](https://shotverse.github.io/)  
+  
+  </div>
+  </div>
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
