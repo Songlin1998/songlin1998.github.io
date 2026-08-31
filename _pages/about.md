@@ -403,7 +403,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   - SIGGRAPH (2025)
   - SIGGRAPH Asia (2026)
   - CVPR (2022, 2023, 2024, 2025, 2026)
-  - ICLR (2026)
+  - ICLR (2026, 2027)
   - MM (2024)
   - ECCV (2022, 2024)
   - 3DV (2025)
