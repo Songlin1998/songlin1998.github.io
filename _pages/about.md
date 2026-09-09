@@ -54,7 +54,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 </style>
 <div class="news-scroll">
 
-∙ 2026/08: One paper is accepted by SIGGRAPH Asia 2026.<br />
+∙ 2026/08: Two papers are accepted by SIGGRAPH Asia 2026.<br />
 ∙ 2026/08: We are organizing <a href="https://cveu.github.io/">the 1st AI Film Frontiers </a> at SIGGRAPH Asia 2026.<br />
 ∙ 2026/08: One paper is accepted by IEEE TVCG.<br />
 ∙ 2026/07: Successfully organized <a href="https://cveu.github.io/event/sig2026.html">SIGGRAPH 2026 CVEU Course and Workshop </a> as Chair.<br />
@@ -242,6 +242,19 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 
   [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-26/), 2026  
   [Paper](https://www.arxiv.org/abs/2511.07812) [Code](https://github.com/2kxx/Q-Scorer)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026 (TC)</div><img src='images/publications/fixer.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**
+  
+ Haitao Huang, [Shenghao Zhao](https://www.linkedin.com/in/shenghao-z-a051082a6/), [Boyuan Tian](https://scholar.google.com/citations?hl=en&user=0BbxNDYAAAAJ&view_op=list_works&sortby=pubdate), [Shin-Fang Chng](https://scholar.google.com/citations?hl=en&user=0O8DYvQAAAAJ&view_op=list_works&sortby=pubdate), **Songlin Yang**, Sheila Lim, [Huangying Zhan](https://scholar.google.com/citations?user=Hss1cmcAAAAJ&hl=en), [Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/), [Anyi Rao](https://anyirao.com/), [Frank Guan](https://sites.google.com/view/frankguan)  
+
+ [SIGGRAPH Asia (Technical Communications)](https://asia.siggraph.org/2026/), 2026  
+ Paper
   
   </div>
   </div>
