@@ -254,7 +254,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
  Haitao Huang, [Shenghao Zhao](https://www.linkedin.com/in/shenghao-z-a051082a6/), [Boyuan Tian](https://scholar.google.com/citations?hl=en&user=0BbxNDYAAAAJ&view_op=list_works&sortby=pubdate), [Shin-Fang Chng](https://scholar.google.com/citations?hl=en&user=0O8DYvQAAAAJ&view_op=list_works&sortby=pubdate), **Songlin Yang**, Sheila Lim, [Huangying Zhan](https://scholar.google.com/citations?user=Hss1cmcAAAAJ&hl=en), [Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/), [Anyi Rao](https://anyirao.com/), [Frank Guan](https://sites.google.com/view/frankguan)  
 
  [SIGGRAPH Asia (Technical Communications)](https://asia.siggraph.org/2026/), 2026  
- Paper
+ [Paper](https://arxiv.org/abs/2609.21176)   
   
   </div>
   </div>
