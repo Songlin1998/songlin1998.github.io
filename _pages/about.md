@@ -154,19 +154,18 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026 (TC)</div><img src='images/publications/fixer.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
-  **Towards Geometry-Grounded Dense Semantic Matching with VGGT Priors**
+  **4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**
   
-  **Songlin Yang**, [Tianyi Wei](https://scholar.google.com/citations?user=-wfXmM4AAAAJ&hl=zh-CN), [Yushi Lan](https://nirvanalan.github.io/), [Zeqi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=6sr_HqMAAAAJ), [Anyi Rao](https://anyirao.com), [Xingang Pan](https://xingangpan.github.io/index.html)  
+ Haitao Huang, [Shenghao Zhao](https://www.linkedin.com/in/shenghao-z-a051082a6/), [Boyuan Tian](https://scholar.google.com/citations?hl=en&user=0BbxNDYAAAAJ&view_op=list_works&sortby=pubdate), [Shin-Fang Chng](https://scholar.google.com/citations?hl=en&user=0O8DYvQAAAAJ&view_op=list_works&sortby=pubdate), **Songlin Yang**, Sheila Lim, [Huangying Zhan](https://scholar.google.com/citations?user=Hss1cmcAAAAJ&hl=en), [Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/), [Anyi Rao](https://anyirao.com/), [Frank Guan](https://sites.google.com/view/frankguan)  
 
-  [The 19th European Conference on Computer Vision](https://eccv.ecva.net/), 2026  
- [Paper](https://arxiv.org/abs/2509.21263) [Code](https://github.com/Songlin1998/VGGT-SM)  
+ [SIGGRAPH Asia (Technical Communications)](https://asia.siggraph.org/2026/), 2026  
+ [Paper](https://arxiv.org/abs/2609.21176)   
   
   </div>
   </div>
-
 
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/rggt.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -181,6 +180,22 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
+
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Towards Geometry-Grounded Dense Semantic Matching with VGGT Priors**
+  
+  **Songlin Yang**, [Tianyi Wei](https://scholar.google.com/citations?user=-wfXmM4AAAAJ&hl=zh-CN), [Yushi Lan](https://nirvanalan.github.io/), [Zeqi Xiao](https://scholar.google.com/citations?hl=zh-CN&user=6sr_HqMAAAAJ), [Anyi Rao](https://anyirao.com), [Xingang Pan](https://xingangpan.github.io/index.html)  
+
+  [The 19th European Conference on Computer Vision](https://eccv.ecva.net/), 2026  
+ [Paper](https://arxiv.org/abs/2509.21263) [Code](https://github.com/Songlin1998/VGGT-SM)  
+  
+  </div>
+  </div>
+
+
+  
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
@@ -242,19 +257,6 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 
   [Proceedings of the AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-26/), 2026  
   [Paper](https://www.arxiv.org/abs/2511.07812) [Code](https://github.com/2kxx/Q-Scorer)  
-  
-  </div>
-  </div>
-
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026 (TC)</div><img src='images/publications/fixer.png' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**
-  
- Haitao Huang, [Shenghao Zhao](https://www.linkedin.com/in/shenghao-z-a051082a6/), [Boyuan Tian](https://scholar.google.com/citations?hl=en&user=0BbxNDYAAAAJ&view_op=list_works&sortby=pubdate), [Shin-Fang Chng](https://scholar.google.com/citations?hl=en&user=0O8DYvQAAAAJ&view_op=list_works&sortby=pubdate), **Songlin Yang**, Sheila Lim, [Huangying Zhan](https://scholar.google.com/citations?user=Hss1cmcAAAAJ&hl=en), [Yi Xu](https://www.linkedin.com/in/yi-xu-42654823/), [Anyi Rao](https://anyirao.com/), [Frank Guan](https://sites.google.com/view/frankguan)  
-
- [SIGGRAPH Asia (Technical Communications)](https://asia.siggraph.org/2026/), 2026  
- [Paper](https://arxiv.org/abs/2609.21176)   
   
   </div>
   </div>
@@ -422,6 +424,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   - 3DV (2025)
   - BMVC (2026)
   - NeurIPS (2026)
+  - IEEE VR (2027)
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
