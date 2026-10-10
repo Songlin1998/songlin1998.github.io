@@ -141,6 +141,19 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
+  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/omniverse.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL**
+  
+  **Songlin Yang**, [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Jiacheng Zhang](https://openreview.net/profile?id=~Jiacheng_Zhang5), [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Toyota Li](https://openreview.net/profile?id=~Toyota_Li1), [Eric Liu](https://openreview.net/profile?id=~Quande_Liu1), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
+ 
+ [Paper](https://arxiv.org/abs/2609.37200)
+  
+  </div>
+  </div>
+
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/publications/shotverse.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
