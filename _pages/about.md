@@ -499,7 +499,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/MM2023.gif' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="video 3d"><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/MM2023.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Context-Aware Talking-Head Video Editing**
