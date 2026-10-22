@@ -231,7 +231,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
 [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://openreview.net/profile?id=~Yang_Li69), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Haotian Fan](https://openreview.net/profile?id=~Haotian_Fan3), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
  
- [Paper](https://arxiv.org/pdf/2609.22947)  
+ [Paper](https://arxiv.org/pdf/2609.22947) [Project](https://2kxx.github.io/RewardVerse/)  
   
   </div>
   </div>
@@ -243,7 +243,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
   [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), **Songlin Yang**, [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
 
-  [Paper](https://arxiv.org/pdf/2601.20305)  
+  [Paper](https://arxiv.org/pdf/2601.20305) [Project](https://2kxx.github.io/SEER.github.io/)  
   
   </div>
   </div>
@@ -256,7 +256,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
   [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), **Songlin Yang**, [Leilei Cao](https://openreview.net/profile?id=~Leilei_Cao1), [Fengjie Zhu](https://openreview.net/profile?id=~Fengjie_Zhu1), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
 
-  [Paper](https://arxiv.org/pdf/2609.22942)   
+   [Paper](https://arxiv.org/pdf/2601.20305) [Project](https://2kxx.github.io/SEER.github.io/) [Code](https://github.com/2kxx/SEER)   
   
   </div>
   </div>
@@ -268,7 +268,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
  [Houyuan Chen](https://openreview.net/profile?id=~Houyuan_Chen1), [Fanzhou Wang](https://openreview.net/profile?id=~Fanzhou_Wang1), [Xiangyu Fan](https://openreview.net/profile?id=~Xiangyu_Fan3), **Songlin Yang**, [Zhitao Yang](https://openreview.net/profile?id=~Zhitao_Yang1), [Lvmin Zhang](https://openreview.net/profile?id=~Lvmin_Zhang1), [Pei Yang](https://openreview.net/profile?id=~Pei_Yang7), [Hao Zhao](https://openreview.net/profile?id=~Hao_Zhao1), [Lei Yang](https://openreview.net/profile?id=~Lei_Yang7), [Anyi Rao](https://anyirao.com/)   
  
-  [Paper](https://arxiv.org/pdf/2610.23751v2)     
+  [Paper](https://arxiv.org/pdf/2610.23751v2) [Code](https://github.com/houyuanchen111/mt-forcing)     
   
   </div>
   </div>
@@ -280,7 +280,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
  [Houyuan Chen](https://openreview.net/profile?id=~Houyuan_Chen1), [Fanzhou Wang](https://openreview.net/profile?id=~Fanzhou_Wang1), [Xiangyu Fan](https://openreview.net/profile?id=~Xiangyu_Fan3), [Zesong Qiu](https://openreview.net/profile?id=~Zesong_Qiu1), [Yukun Wei](https://scholar.google.com/citations?user=z4-wfncAAAAJ), **Songlin Yang**, [Zhitao Yang](https://openreview.net/profile?id=~Zhitao_Yang1), [Lvmin Zhang](https://openreview.net/profile?id=~Lvmin_Zhang1), [Pei Yang](https://openreview.net/profile?id=~Pei_Yang7), [Hao Zhao](https://openreview.net/profile?id=~Hao_Zhao1), [Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en), [Lei Yang](https://openreview.net/profile?id=~Lei_Yang7), [Anyi Rao](https://anyirao.com/)   
  
-  [Paper](https://arxiv.org/pdf/2610.25404)   
+  [Paper](https://arxiv.org/pdf/2610.25404) [Code](https://github.com/houyuanchen111/mt-forcing)    
   
   </div>
   </div>
