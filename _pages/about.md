@@ -427,18 +427,9 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   - Pattern Recognition (PR)
   - International Journal of Computer Vision (IJCV)
 - Conference Reviewer
-  - AAAI (2023, 2024, 2025, 2026)
-  - ICCV (2025)
-  - SIGGRAPH (2025)
-  - SIGGRAPH Asia (2026)
-  - CVPR (2022, 2023, 2024, 2025, 2026)
-  - ICLR (2026, 2027)
-  - MM (2024)
-  - ECCV (2022, 2024)
-  - 3DV (2025)
-  - BMVC (2026)
-  - NeurIPS (2026)
-  - IEEE VR (2027)
+  - AAAI (2023, 2024, 2025, 2026), ICLR (2025, 2026), NeurIPS (2026)  
+  - ICCV (2025), CVPR (2022, 2023, 2024, 2025, 2026), ECCV (2022, 2024), 3DV (2025), BMVC (2026) 
+  - SIGGRAPH (2025), SIGGRAPH Asia (2026), MM (2024), IEEE VR (2027), Eurographics (2027)  
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=7vdDMk61HlQEKQd8AYn5-S0oCuWHWu5PXdYVUfgjX4I&cmn=ff5353'></script>
