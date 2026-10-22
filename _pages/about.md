@@ -219,7 +219,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
  **Songlin Yang**, [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Xi Wang](https://triocrossing.github.io/), [Ran Zhang](https://scholar.google.com/citations?user=V5QsRzMAAAAJ&hl=en), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Taiyi Wu](https://www.researchgate.net/scientific-contributions/Taiyi-Wu-2342578103), [Songlian Li](https://openreview.net/profile?id=~Songlian_Li1), [Eric Liu](https://openreview.net/profile?id=~Quande_Liu1), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
  
- Paper
+ Paper  
   
   </div>
   </div>
@@ -231,7 +231,56 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
 [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://openreview.net/profile?id=~Yang_Li69), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Haotian Fan](https://openreview.net/profile?id=~Haotian_Fan3), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
  
- [Paper](https://arxiv.org/pdf/2609.22947)
+ [Paper](https://arxiv.org/pdf/2609.22947)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/endogenous.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Endogenous Reprompting: Self-Evolving Cognitive Alignment for Unified Multimodal Models**
+  
+  [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), **Songlin Yang**, [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
+
+  [Paper](https://arxiv.org/pdf/2601.20305)  
+  
+  </div>
+  </div>
+
+  
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/agentic_iqa.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **An Evolutionary Agentic Approach for Open-ended Image Quality Perception**
+  
+  [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Zichuan Wang](https://openreview.net/profile?id=~Zichuan_Wang3), **Songlin Yang**, [Leilei Cao](https://openreview.net/profile?id=~Leilei_Cao1), [Fengjie Zhu](https://openreview.net/profile?id=~Fengjie_Zhu1), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
+
+  [Paper](https://arxiv.org/pdf/2609.22942)   
+  
+  </div>
+  </div>
+
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/mtedit.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing**
+  
+ [Houyuan Chen](https://openreview.net/profile?id=~Houyuan_Chen1), [Fanzhou Wang](https://openreview.net/profile?id=~Fanzhou_Wang1), [Xiangyu Fan](https://openreview.net/profile?id=~Xiangyu_Fan3), **Songlin Yang**, [Zhitao Yang](https://openreview.net/profile?id=~Zhitao_Yang1), [Lvmin Zhang](https://openreview.net/profile?id=~Lvmin_Zhang1), [Pei Yang](https://openreview.net/profile?id=~Pei_Yang7), [Hao Zhao](https://openreview.net/profile?id=~Hao_Zhao1), [Lei Yang](https://openreview.net/profile?id=~Lei_Yang7), [Anyi Rao](https://anyirao.com/)   
+ 
+  [Paper](https://arxiv.org/pdf/2610.23751v2)     
+  
+  </div>
+  </div>
+
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/mtforcing.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **MT Forcing: Towards Stable and Consistent Multi-Turn Image Editing with Autoregressive Diffusion**
+  
+ [Houyuan Chen](https://openreview.net/profile?id=~Houyuan_Chen1), [Fanzhou Wang](https://openreview.net/profile?id=~Fanzhou_Wang1), [Xiangyu Fan](https://openreview.net/profile?id=~Xiangyu_Fan3), [Zesong Qiu](https://openreview.net/profile?id=~Zesong_Qiu1), [Yukun Wei](https://scholar.google.com/citations?user=z4-wfncAAAAJ), **Songlin Yang**, [Zhitao Yang](https://openreview.net/profile?id=~Zhitao_Yang1), [Lvmin Zhang](https://openreview.net/profile?id=~Lvmin_Zhang1), [Pei Yang](https://openreview.net/profile?id=~Pei_Yang7), [Hao Zhao](https://openreview.net/profile?id=~Hao_Zhao1), [Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=en), [Lei Yang](https://openreview.net/profile?id=~Lei_Yang7), [Anyi Rao](https://anyirao.com/)   
+ 
+  [Paper](https://arxiv.org/pdf/2610.25404)   
   
   </div>
   </div>
@@ -289,7 +338,6 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
   </div>
   </div>
-
 
   
   <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
