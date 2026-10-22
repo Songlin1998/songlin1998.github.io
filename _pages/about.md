@@ -174,30 +174,6 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 </script>
 
 
-<div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/evalverse.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation**
-  
-  **Songlin Yang**, [Haobin Zhong](https://songlin1998.github.io/), [Ruilin Zhang](https://songlin1998.github.io/), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Kai Zheng](https://songlin1998.github.io/), [Xuyi Yang](https://openreview.net/profile?id=~Xuyi_Yang1), [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://openreview.net/profile?id=~Yang_Li69), [Bohai Gu](https://openreview.net/profile?id=~Bohai_Gu1), [Zhengwei Peng](https://openreview.net/profile?id=~Zhengwei_Peng1), [Yidan Huang](https://songlin1998.github.io/), [Mengzhou Luo](https://songlin1998.github.io/), [Yihang Bo](https://openreview.net/profile?id=~Yihang_Bo3), [Dalu Feng](https://scholar.google.com/citations?hl=zh-CN&user=G0zjNu8AAAAJ), [Yujia Zhang](https://scholar.google.com/citations?hl=zh-CN&user=grqu20cAAAAJ&view_op=list_works&sortby=pubdate), [Juntao Ma](https://songlin1998.github.io/), [Ruiqi Wang](https://songlin1998.github.io/), [Lvmin Zhang](https://scholar.google.com/citations?user=ANMsdHYAAAAJ&hl=en), [Yuwei Guo](https://scholar.google.com/citations?user=K2ZLY98AAAAJ&hl=zh-CN), [Frank Guan](https://sites.google.com/view/frankguan), [Maneesh Agrawala](https://scholar.google.com/citations?user=YPzKczYAAAAJ&hl=en), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
- 
- [Paper](https://arxiv.org/pdf/2605.23271)  
-  
-  </div>
-  </div>
-
-<div class='paper-box' data-category="video 3d image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Human-Centric Content Generation with Diffusion Models: A Survey**
-  
-  **Songlin Yang**, [Yueming Lyu](https://scholar.google.com/citations?user=TxuK84wAAAAJ), [Ziyuan Chen](https://github.com/Etherealllllll), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Xiaoxuan Han](https://openreview.net/profile?id=~Xiaoxuan_Han1), [Pei Yang](https://github.com/YoungP2001), [Ziye Wang](https://github.com/wzy1111111), [Anyi Rao](https://anyirao.com/), [Ziwei Liu](https://liuziwei7.github.io/), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Caifeng Shan](https://caifeng-shan.github.io/), [Xiaoming Liu](https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=zh-CN), [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN), [Chenyang Si](https://scholar.google.com/citations?user=XdahAuoAAAAJ&hl=en)   
- 
- [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177138906.63173113/v1) [Project](https://github.com/Songlin1998/awesome-diffusion-human-centric)  
-  
-  </div>
-  </div>
-
   
   <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/omniverse.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
@@ -223,6 +199,31 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
   </div>
   </div>
+
+  <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/evalverse.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation**
+  
+  **Songlin Yang**, [Haobin Zhong](https://songlin1998.github.io/), [Ruilin Zhang](https://songlin1998.github.io/), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Kai Zheng](https://songlin1998.github.io/), [Xuyi Yang](https://openreview.net/profile?id=~Xuyi_Yang1), [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://openreview.net/profile?id=~Yang_Li69), [Bohai Gu](https://openreview.net/profile?id=~Bohai_Gu1), [Zhengwei Peng](https://openreview.net/profile?id=~Zhengwei_Peng1), [Yidan Huang](https://songlin1998.github.io/), [Mengzhou Luo](https://songlin1998.github.io/), [Yihang Bo](https://openreview.net/profile?id=~Yihang_Bo3), [Dalu Feng](https://scholar.google.com/citations?hl=zh-CN&user=G0zjNu8AAAAJ), [Yujia Zhang](https://scholar.google.com/citations?hl=zh-CN&user=grqu20cAAAAJ&view_op=list_works&sortby=pubdate), [Juntao Ma](https://songlin1998.github.io/), [Ruiqi Wang](https://songlin1998.github.io/), [Lvmin Zhang](https://scholar.google.com/citations?user=ANMsdHYAAAAJ&hl=en), [Yuwei Guo](https://scholar.google.com/citations?user=K2ZLY98AAAAJ&hl=zh-CN), [Frank Guan](https://sites.google.com/view/frankguan), [Maneesh Agrawala](https://scholar.google.com/citations?user=YPzKczYAAAAJ&hl=en), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
+ 
+ [Paper](https://arxiv.org/pdf/2605.23271)  
+  
+  </div>
+  </div>
+
+  <div class='paper-box' data-category="video 3d image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Human-Centric Content Generation with Diffusion Models: A Survey**
+  
+  **Songlin Yang**, [Yueming Lyu](https://scholar.google.com/citations?user=TxuK84wAAAAJ), [Ziyuan Chen](https://github.com/Etherealllllll), [Yang Li](https://github.com/yangli-lab), [Beibei Dong](https://openreview.net/profile?id=~BeibeiDong2), [Xiaoxuan Han](https://openreview.net/profile?id=~Xiaoxuan_Han1), [Pei Yang](https://github.com/YoungP2001), [Ziye Wang](https://github.com/wzy1111111), [Anyi Rao](https://anyirao.com/), [Ziwei Liu](https://liuziwei7.github.io/), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Caifeng Shan](https://caifeng-shan.github.io/), [Xiaoming Liu](https://scholar.google.com/citations?user=Bii0w1oAAAAJ&hl=zh-CN), [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=zh-CN), [Chenyang Si](https://scholar.google.com/citations?user=XdahAuoAAAAJ&hl=en)   
+ 
+ [Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177138906.63173113/v1) [Project](https://github.com/Songlin1998/awesome-diffusion-human-centric)  
+  
+  </div>
+  </div>
+
 
   <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/rewardverse.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
