@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am supported by [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients) and [Tencent Project UP (Qingyun)](https://join.qq.com/qingyun.html), and I am the recipient of [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [Tencent](https://www.tencent.com/en-us/), [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
+I am a PhD student at [MMLab](https://mmlab.ie.cuhk.edu.hk/people.html)@HKUST, [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/) and [Hongbo Fu](https://hongbofu.people.ust.hk/index.htm). I am supported by [IEEE Signal Processing Society (SPS) Scholarship](https://signalprocessingsociety.org/newsletter/2025/11/congratulations-2025-sps-scholarship-recipients) and [Tencent Project UP (Qingyun)](https://join.qq.com/qingyun.html), and I am the recipient of [BSIG Outstanding Thesis Award](http://www.bsig.org.cn/detail/2574). I am fortunate to have experiences at [NLPR@CASIA](http://cripac.ia.ac.cn/CN/model/index.htm), [Tencent](https://www.tencent.com/en-us/), [Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/?msockid=217c40e4c66e685d18a456ccc72b690d), [SenseTime Research](https://www.sensetime.com/en/), and [MMLab@NTU](https://www.mmlab-ntu.com/).
   
 # 🔈**JOIN US!**
 
@@ -60,7 +60,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 ∙ 2026/07: Successfully organized <a href="https://cveu.github.io/event/sig2026.html">SIGGRAPH 2026 CVEU Course and Workshop </a> as Chair.<br />
 ∙ 2026/06: One paper is accepted by ECCV 2026.<br />
 ∙ 2026/05: One paper is accepted by ICML 2026.<br />
-∙ 2026/04: <font color="red">I am granted by </font> <a href="https://join.qq.com/qingyun.html"><font color="red">Tencent Project UP (Qingyun)!</font></a>.<br />
+∙ 2026/04: <font color="red">I am granted by </font> <a href="https://join.qq.com/qingyun.html"><font color="red">Tencent Project UP (Qingyun)!</font></a><br />
 ∙ 2026/04: We are organizing <a href="[https://cveu.github.io/](https://cveu.github.io/event/sig2026.html)">the 10th CVEU Workshop </a> at SIGGRAPH 2026.<br />
 ∙ 2026/02: Two papers are accepted by CVPR 2026 with one highlight.<br />
 ∙ 2026/01: One paper is accepted by ICLR 2026.<br /> 
@@ -102,7 +102,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 - **Student Researcher, Tencent Video AI Center, PCG, [Tencent](https://www.tencent.com/en-us/)**
 - **Research Associate, [MMLab@NTU](https://www.mmlab-ntu.com/), [Nanyang Technological University](https://www.ntu.edu.sg/)**  
 - **Research Intern, Content Generation Group, [SenseTime Research](https://www.sensetime.com/en)**   
-- **Research Intern, Machine Learning Group, [MicroSoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**  
+- **Research Intern, Machine Learning Group, [Microsoft Research Lab Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)**  
 - **Research Intern, Identity Verification Group, [SenseTime Research](https://www.sensetime.com/en)**
 
 # 🎙️ Invited Talk
@@ -117,20 +117,76 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 # 📝 Selected Publications
 {: #publication }
 
+<style>
+.pub-tabs {
+  margin: 0.5em 0 0.5em 0;
+  font-size: 0.95em;
+  line-height: 2em;
+}
+.pub-tabs a {
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0 0.15em;
+}
+.pub-tabs a.active {
+  font-weight: bold;
+  color: #222;
+  border-bottom: 2px solid #222;
+}
+.pub-tabs .sep {
+  color: #bbb;
+  margin: 0 0.4em;
+}
+</style>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/evalverse.jpg' alt="sym" width="100%"></div></div>
+<div class="pub-tabs" id="pub-tabs">
+  <a href="javascript:void(0)" data-filter="all" class="active">All</a><span class="sep">|</span>
+  <a href="javascript:void(0)" data-filter="video">Video Generation</a><span class="sep">|</span>
+  <a href="javascript:void(0)" data-filter="3d">3D Vision</a><span class="sep">|</span>
+  <a href="javascript:void(0)" data-filter="image">Image Generation</a><span class="sep">|</span>
+  <a href="javascript:void(0)" data-filter="trust">Trustworthy AIGC</a>
+</div>
+
+<script>
+(function () {
+  function filterPubs(f) {
+    var i, tabs = document.getElementById('pub-tabs').getElementsByTagName('a');
+    for (i = 0; i < tabs.length; i++) {
+      tabs[i].className = (tabs[i].getAttribute('data-filter') === f) ? 'active' : '';
+    }
+    var boxes = document.getElementsByClassName('paper-box');
+    for (i = 0; i < boxes.length; i++) {
+      var cats = ' ' + (boxes[i].getAttribute('data-category') || '') + ' ';
+      boxes[i].style.display = (f === 'all' || cats.indexOf(' ' + f + ' ') !== -1) ? '' : 'none';
+    }
+  }
+  document.getElementById('pub-tabs').onclick = function (e) {
+    e = e || window.event;
+    var t = e.target || e.srcElement;
+    while (t && t.tagName !== 'A' && t.id !== 'pub-tabs') { t = t.parentNode; }
+    if (!t || t.tagName !== 'A') { return; }
+    if (e.preventDefault) { e.preventDefault(); }
+    if (e.stopPropagation) { e.stopPropagation(); }
+    filterPubs(t.getAttribute('data-filter'));
+    return false;
+  };
+})();
+</script>
+
+
+<div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/evalverse.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation**
   
-  **Songlin Yang**, [Haobin Zhong](https://songlin1998.github.io/), [Ruilin Zhang](https://songlin1998.github.io/), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Shuai Li](https://songlin1998.github.io/), [Kai Zheng](https://songlin1998.github.io/), [Xuyi Yang](https://openreview.net/profile?id=~Xuyi_Yang1), [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://openreview.net/profile?id=~Yang_Li69), [Bohai Gu](https://openreview.net/profile?id=~Bohai_Gu1), [Zhengwei Peng](https://openreview.net/profile?id=~Zhengwei_Peng1), [Yidan Huang](https://songlin1998.github.io/), [Mengzhou Luo](https://songlin1998.github.io/), [Yihang Bo](https://openreview.net/profile?id=~Yihang_Bo3), [Dalu Feng](https://scholar.google.com/citations?hl=zh-CN&user=G0zjNu8AAAAJ), [Yujia Zhang](https://scholar.google.com/citations?hl=zh-CN&user=grqu20cAAAAJ&view_op=list_works&sortby=pubdate), [Juntao Ma](https://songlin1998.github.io/), [Ruiqi Wang](https://songlin1998.github.io/), [Lvmin Zhang](https://scholar.google.com/citations?user=ANMsdHYAAAAJ&hl=en), [Yuwei Guo](https://scholar.google.com/citations?user=K2ZLY98AAAAJ&hl=zh-CN), [Frank Guan](https://sites.google.com/view/frankguan), [Maneesh Agrawala](https://scholar.google.com/citations?user=YPzKczYAAAAJ&hl=en), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
+  **Songlin Yang**, [Haobin Zhong](https://songlin1998.github.io/), [Ruilin Zhang](https://songlin1998.github.io/), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Kai Zheng](https://songlin1998.github.io/), [Xuyi Yang](https://openreview.net/profile?id=~Xuyi_Yang1), [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://openreview.net/profile?id=~Yang_Li69), [Bohai Gu](https://openreview.net/profile?id=~Bohai_Gu1), [Zhengwei Peng](https://openreview.net/profile?id=~Zhengwei_Peng1), [Yidan Huang](https://songlin1998.github.io/), [Mengzhou Luo](https://songlin1998.github.io/), [Yihang Bo](https://openreview.net/profile?id=~Yihang_Bo3), [Dalu Feng](https://scholar.google.com/citations?hl=zh-CN&user=G0zjNu8AAAAJ), [Yujia Zhang](https://scholar.google.com/citations?hl=zh-CN&user=grqu20cAAAAJ&view_op=list_works&sortby=pubdate), [Juntao Ma](https://songlin1998.github.io/), [Ruiqi Wang](https://songlin1998.github.io/), [Lvmin Zhang](https://scholar.google.com/citations?user=ANMsdHYAAAAJ&hl=en), [Yuwei Guo](https://scholar.google.com/citations?user=K2ZLY98AAAAJ&hl=zh-CN), [Frank Guan](https://sites.google.com/view/frankguan), [Maneesh Agrawala](https://scholar.google.com/citations?user=YPzKczYAAAAJ&hl=en), [Hongbo Fu](https://hongbofu.people.ust.hk/), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
  
  [Paper](https://arxiv.org/pdf/2605.23271)  
   
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-category="video 3d image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Human-Centric Content Generation with Diffusion Models: A Survey**
@@ -143,7 +199,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
 
   
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/omniverse.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/omniverse.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL**
@@ -155,7 +211,33 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/publications/shotverse.jpg' alt="sym" width="100%"></div></div>
+
+  <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/shotverse2.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation**
+  
+ **Songlin Yang**, [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Xi Wang](https://triocrossing.github.io/), [Ran Zhang](https://scholar.google.com/citations?user=V5QsRzMAAAAJ&hl=en), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Taiyi Wu](https://www.researchgate.net/scientific-contributions/Taiyi-Wu-2342578103), [Songlian Li](https://openreview.net/profile?id=~Songlian_Li1), [Eric Liu](https://openreview.net/profile?id=~Quande_Liu1), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
+ 
+ Paper
+  
+  </div>
+  </div>
+
+  <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/rewardverse.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box-text' markdown="1">
+  
+  **RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling**
+  
+[Zhenchen Tang](https://openreview.net/profile?id=~Zhenchen_Tang2), [Yang Li](https://openreview.net/profile?id=~Yang_Li69), **Songlin Yang**, [Bo Peng](http://cripac.ia.ac.cn/en/EN/column/item139.shtml), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Haotian Fan](https://openreview.net/profile?id=~Haotian_Fan3), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Jing Dong](https://openreview.net/profile?id=~Jing_Dong1)  
+ 
+ [Paper](https://arxiv.org/pdf/2609.22947)
+  
+  </div>
+  </div>
+  
+
+  <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/publications/shotverse.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation**
@@ -168,7 +250,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026 (TC)</div><img src='images/publications/fixer.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="3d"><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026 (TC)</div><img src='images/publications/fixer.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **4DGS-Fixer: Generative Sparse-View 4D Gaussian Splatting with Iterative Refinement Guided by Video Diffusion Priors**
@@ -181,7 +263,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/rggt.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="3d"><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/rggt.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **RGGT: A Generative-Prior-Guided Transformer for Unified Rigid and Non-Rigid Point Cloud Registration**
@@ -195,7 +277,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
 
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="3d"><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/semantic_matching.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Towards Geometry-Grounded Dense Semantic Matching with VGGT Priors**
@@ -210,7 +292,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
 
 
   
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2026</div><img src='images/publications/instant.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Instant Preference Alignment for Text-to-Image Diffusion Models**
@@ -223,7 +305,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Highlight)</div><img src='images/publications/hallucination.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="trust"><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Highlight)</div><img src='images/publications/hallucination.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination**
@@ -236,7 +318,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Workshop)</div><img src='images/publications/pseudo.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">CVPR 2026 (Workshop)</div><img src='images/publications/pseudo.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models**
@@ -249,7 +331,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/alpha.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/alpha.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Alpha-DPO: Robust Preference Alignment for Diffusion Models via Alpha Divergence**
@@ -262,7 +344,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/publications/mllm_iqa.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/publications/mllm_iqa.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Revisiting MLLM Based Image Quality Assessment: Errors and Remedy**
@@ -276,7 +358,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
 
   
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/publications/watermark.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="trust"><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/publications/watermark.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
    **Copyright Protection by Trigger Query Optimization for Unified VLMs**
@@ -289,7 +371,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/publications/hand.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">PRCV 2026</div><img src='images/publications/hand.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
    **HandEval: Taking the First Step Towards Hand Quality Evaluation in Generated Images**
@@ -302,7 +384,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="3d"><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/morphing.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Textured 3D Regenerative Morphing with 3D Diffusion Prior**
@@ -315,7 +397,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>  
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2025</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="image"><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2025</div><img src='images/publications/cvpr24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
 
   **Beyond Inserting: Learning Subject Embedding for Semantic-Fidelity Personalized Diffusion Generation**
@@ -329,7 +411,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="trust"><div class='paper-box-image'><div><div class="badge">PR 2025</div><img src='images/publications/mm2024.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Probing Unlearned Diffusion Models: A Transferable Adversarial Attack Perspective**
@@ -342,7 +424,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-category="trust"><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Adaptive Median Smoothing: Adversarial Defense for Unlearned Text-to-Image Diffusion Models at Inference Time**
@@ -355,7 +437,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/AAAI2024.gif' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="3d"><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/publications/AAAI2024.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Learning Dense Correspondence for NeRF-Based Face Reenactment**
@@ -368,7 +450,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/MM2023.gif' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="video"><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/publications/MM2023.gif' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Context-Aware Talking-Head Video Editing**
@@ -382,7 +464,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
 
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="trust"><div class='paper-box-image'><div><div class="badge">ACM TOMM 2024</div><img src='images/publications/tomm24.png' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Exploiting Backdoors of Face Synthesis Detection with Natural Triggers**
