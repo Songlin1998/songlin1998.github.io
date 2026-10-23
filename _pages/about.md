@@ -195,7 +195,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   
  **Songlin Yang**, [Zhe Wang](https://openreview.net/profile?id=~Zhe_Wang75), [Xiaotong Zhao](https://openreview.net/profile?id=~Xiaotong_Zhao1), [Xi Wang](https://triocrossing.github.io/), [Ran Zhang](https://scholar.google.com/citations?user=V5QsRzMAAAAJ&hl=en), [Shuai Li](https://openreview.net/profile?id=~Shuai_Li20), [Taiyi Wu](https://www.researchgate.net/scientific-contributions/Taiyi-Wu-2342578103), [Songlian Li](https://openreview.net/profile?id=~Songlian_Li1), [Eric Liu](https://openreview.net/profile?id=~Quande_Liu1), [Alan Zhao](https://openreview.net/profile?id=~Alan_Zhao1), [Anyi Rao](https://anyirao.com/)  
  
- Paper  
+ [Paper](https://arxiv.org/pdf/2610.30926v1)    
   
   </div>
   </div>
