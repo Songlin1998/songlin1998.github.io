@@ -212,7 +212,7 @@ My research seeks to build self-evolving multimodal intelligence by unifying gen
   </div>
   </div>
 
-  <div class='paper-box' data-category="video 3d image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box' data-category="video image"><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/publications/human.jpg' alt="sym" width="100%"></div></div>
   <div class='paper-box-text' markdown="1">
   
   **Human-Centric Content Generation with Diffusion Models: A Survey**
